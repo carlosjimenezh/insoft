@@ -31,3 +31,8 @@
     </nav>
 </header>
 
+<div class="flotante escribenos">
+    <img class="flotante" src="assets/whatsapp.svg" alt="">
+    ¡Escribenos por WhatsApp!
+</div>
+
