@@ -65,6 +65,19 @@ hr{ border:#333 solid 1px;}
 	-webkit-filter: drop-shadow(0.5px 0.5px 1.5px gray);
 }
 
+button {
+	background-color: #2465b1;
+	border: none;
+	border-radius: 17px;
+	color: white;
+	font-weight: bold;
+	padding: 7px 35px;
+	-webkit-border-radius: 17px;
+	-moz-border-radius: 17px;
+	-ms-border-radius: 17px;
+	-o-border-radius: 17px;
+}
+
 header nav {
 	background-color: rgb(0, 0, 0, 0.7);
 }
