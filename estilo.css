@@ -41,11 +41,13 @@ hr{ border:#333 solid 1px;}
 }
 
 .escribenos {
+	background-color: white;
 	bottom: 30px;
 	border-radius: 5px;
 	color: #73c56f;
 	padding: 10px 15px;
 	padding-left: 20px;
+	position: fixed;
 	right: 30px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
