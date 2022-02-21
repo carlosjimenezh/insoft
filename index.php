@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <?php include("header.html"); ?>
-    
+    <?php include("header.php"); ?>
+
     
 
     <?php include("footer.html"); ?>
