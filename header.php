@@ -14,7 +14,7 @@
     </div>
     <nav class="w3-bar">
         <div class="contenido">
-            <a href="">
+            <a href="" class="w3-left">
                 <img src="assets/logo-insoft.svg" alt="" style="width: 100px;">
             </a>
             <a href="nosotros.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
