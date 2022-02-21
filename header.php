@@ -15,7 +15,7 @@
     <nav class="w3-bar">
         <div class="contenido">
             <a href="" class="w3-left">
-                <img src="assets/logo-insoft.svg" alt="" style="width: 100px;">
+                <img src="assets/logo-insoft.svg" alt="" style="width: 150px;">
             </a>
             <a href="nosotros.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
             <a href="solidworks.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==2){ echo "activo";}?>">SOLIDWORKS</a>
