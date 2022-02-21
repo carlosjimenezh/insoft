@@ -32,6 +32,10 @@ hr{ border:#333 solid 1px;}
 	margin:10px auto; padding:0 14px
 }
 
+.activo {
+	border-bottom: 2px solid white!important;
+}
+
 header nav {
 	background-color: rgb(0, 0, 0, 0.7);
 	color: white;
@@ -46,7 +50,7 @@ header nav .contenido {
 }
 
 header .w3-bar .w3-bar-item {
-	padding: 0;
+	padding: 0
 }
 
 header nav img {
