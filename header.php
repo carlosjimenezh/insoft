@@ -1,5 +1,5 @@
 <header>
-    <div class="contenido contactos">
+    <div class="contenido contactos txtazul">
         <div class="w3-right">
             <a href="">
                 (33) 3124 3922
@@ -13,7 +13,7 @@
         </div>
     </div>
     <nav class="w3-bar">
-        <div class="contenido">
+        <div class="contenido txtblanco">
             <a href="" class="w3-left">
                 <img src="assets/logo-insoft.svg" alt="" style="width: 150px;">
             </a>
