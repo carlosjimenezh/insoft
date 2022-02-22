@@ -16,7 +16,7 @@
         </div>
     </div>
 
-    <section class="productos">
+    <section id="productos">
         <div class="w3-center contenido" style="max-width: 700px;">
             <h1>PRODUCTOS Y SOLUCIONES</h1>
             Contamos con soluciones eficaces e intuitivas para innovar y abarcar todos 
@@ -50,10 +50,14 @@
     </section>
 
 
-    <section style="background-color: aliceblue; height:400px; position:relative">
+    <section id="paralax" style="background-color: aliceblue; height:400px; position:relative">
         <div class="w3-display-middle">
             PARALAX
         </div>
+    </section>
+
+    <section id="capacitacion">
+        
     </section>
     
 
