@@ -8,8 +8,23 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
+    <?php $sec=1; ?>
     <?php include("header.php"); ?>
+    <div class="banner-principal" style="height: 600px; background-color:aliceblue">
+        <div class="contenido">
+            prueba
+        </div>
+    </div>
 
+    <section class="productos">
+        <div class="w3-center contenido" style="max-width: 700px;">
+            <h1>PRODUCTOS Y SOLUCIONES</h1>
+            Contamos con soluciones eficaces e intuitivas para innovar y abarcar todos 
+            los aspectos del proceso de desarrollo de productos, sin importar el tamaño de su empresa.
+            <br>
+            <button>Más información</button>
+        </div>
+    </section>
     
 
     <?php include("footer.html"); ?>

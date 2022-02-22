@@ -72,6 +72,7 @@ button {
 	border: none;
 	border-radius: 17px;
 	color: white;
+	cursor: pointer;
 	font-weight: bold;
 	padding: 7px 35px;
 	-webkit-border-radius: 17px;
