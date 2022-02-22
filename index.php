@@ -127,14 +127,14 @@
             <h1>CENTROS DE CAPACITACIÓN</h1>
             <div class="w3-half mitadizq">
                 <h2>Guadalajara</h2>
-                Av. Cristóbal Colón 2706 
-                Col. Jardines de la Cruz 
+                Av. Cristóbal Colón 2706 <br>
+                Col. Jardines de la Cruz  <br>
                 01 (33) 3124 3922
             </div>
             <div class="w3-half mitadder">
                 <h2>CDMX</h2>
-                Av. Gustavo Baz 209 int. 203
-                Col. Hacienda Echegaray, Naucalpan 
+                Av. Gustavo Baz 209 int. 203 <br>
+                Col. Hacienda Echegaray, Naucalpan <br> 
                 01 (55) 5009 5585
             </div>
         </div>
