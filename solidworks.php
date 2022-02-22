@@ -72,6 +72,53 @@
         </div>
     </section>
 
+
+    <section class="contenido">
+        <h3 class="w3-center">¿Que incluye este paquete de SOLIDWORKS 3D CAD?</h3>
+        <div class="w3-row">
+            <div class="w3-half mitadizq">
+            Se bassa en las funcionalidades de SOLIDWORKS Profesional con colaboracion de ECAD/MCAD, 
+            estimación de costes automatizada , capacidades de colaboración, comprobación del diseño y 
+            el dibujo , una amplia y sofisticada biblioteca de componentes, piezas y renderizado avanzado. 
+            <br> <br>
+            Gestione todos los aspectos de su modelado de piezas y ensamblajes con el sistema de diseño 
+            3D de SOLIDWORKS para transformar las ideas y los conceptos en modelos 3D virtuales 
+            <br> <br>
+            Las bibliotecas CAD de SOLIDWORKS le permiten acceder de forma sencilla, localizar, descargar, 
+            guardar y compartir modelos CAD 3D creados previamente y datos CAD que suelen reutilizarse.
+            </div>
+            <div class="w3-half mitadder">
+            La herramienta de análisis de tolerancia TolAnalyst comprueba automáticamente los efectos 
+            de las tolerancias en las piezas y los ensamblajes para asegurar un ajuste coherente de los 
+            componentes y verificar los esquemas de tolerancias antes de que el producto llegue a la 
+            fabricación <br> <br>
+            Los fabricantes también pueden utilizar las herramientas de cálculo de costes de SOLIDWORKS 
+            para automatizar los procesos de elaboración de presupuestos.
+            </div>
+        </div>
+    </section>
+
+
+    <section id="paquetes" style="background-color: aliceblue;">
+        <div class="contenido w3-row cflex">
+            <div class="w3-third mitadizq cflex">
+                <div style="border:1px solid black; width:100%">
+                    <span>CAD en 3D de SOLIDWORKS</span>
+                </div>
+            </div>
+            <div class="w3-third mitadcentro cflex">
+                <div style="border:1px solid black">
+                    prueba   <br> <br>
+                </div>
+            </div>
+            <div class="w3-third mitadder cflex">
+                <div style="border:1px solid black">
+                    prueba  
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include("footer.html"); ?>
 </body>
 </html>
