@@ -22,7 +22,7 @@
             Contamos con soluciones eficaces e intuitivas para innovar y abarcar todos 
             los aspectos del proceso de desarrollo de productos, sin importar el tamaño de su empresa.
             <br>
-            <button>Más información</button>
+            <a href="" class="btn">Más información</a>
         </div>
         <div class="w3-row contenido w3-center">
             <div class="w3-third mitadizq">
@@ -62,7 +62,7 @@
             Contamos con cursos desde nivel básico y más de 15 especialidades que te 
             ayudarán a realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual.
             <br>
-            <button>Contactar</button>
+            <a href="" class="btn">Contactar</a>
         </div>
         <div class="contenido w3-center">
             <div class="w3-row">
