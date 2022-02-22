@@ -68,14 +68,16 @@ hr{ border:#333 solid 1px;}
 	-webkit-filter: drop-shadow(0.5px 0.5px 1.5px gray);
 }
 
-button {
+.btn {
 	background-color: #2465b1;
 	border: none;
 	border-radius: 17px;
 	color: white;
 	cursor: pointer;
+	display: inline-block;
 	font-weight: bold;
 	padding: 7px;
+	text-align: center;
 	width: 200px;
 	-webkit-border-radius: 17px;
 	-moz-border-radius: 17px;
