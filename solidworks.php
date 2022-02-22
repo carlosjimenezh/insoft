@@ -16,6 +16,29 @@
         </div>
     </div>
 
+    <section class="contenido w3-center">
+        <h3>Si piensas en diseñar, piensa en SOLIDWORKS, si piensas innovar, piensa en INSOFT</h3>
+        Soluciones de diseño en 3D intuitivas que le permiten centrarse en su producto y no en el <br>
+        funcionamiento del software, para producir a mayor velocidad sus diseños.
+    </section>
+
+
+    <section class="contenido" style="max-width:1350px">
+        <div style="border: 1px solid black;">
+            <div class="contenido">
+                prueba
+            </div>
+        </div>
+        <div class="contenido">
+            prueba
+        </div>
+        <div style="border: 1px solid black;">
+            <div class="contenido">
+                prueba
+            </div>
+        </div>
+    </section>
+
     <?php include("footer.html"); ?>
 </body>
 </html>
