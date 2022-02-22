@@ -122,6 +122,24 @@
     </section>
     
 
+    <section id="centro-capacitacion">
+        <div class="contenido w3-row w3-center" style="max-width: 700px;">
+            <h1>CENTROS DE CAPACITACIÓN</h1>
+            <div class="w3-half mitadizq">
+                <h2>Guadalajara</h2>
+                Av. Cristóbal Colón 2706 
+                Col. Jardines de la Cruz 
+                01 (33) 3124 3922
+            </div>
+            <div class="w3-half mitadder">
+                <h2>CDMX</h2>
+                Av. Gustavo Baz 209 int. 203
+                Col. Hacienda Echegaray, Naucalpan 
+                01 (55) 5009 5585
+            </div>
+        </div>
+    </section>
+
     <?php include("footer.html"); ?>
 </body>
 </html>
