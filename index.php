@@ -48,6 +48,13 @@
             </div>
         </div>
     </section>
+
+
+    <section style="background-color: aliceblue; height:400px; position:relative">
+        <div class="w3-display-middle">
+            PARALAX
+        </div>
+    </section>
     
 
     <?php include("footer.html"); ?>
