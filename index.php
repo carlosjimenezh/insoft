@@ -24,6 +24,29 @@
             <br>
             <button>Más información</button>
         </div>
+        <div class="w3-row contenido w3-center">
+            <div class="w3-third mitadizq">
+                <img src="" alt="">
+                <h2>SOLIDWORKS</h2>
+                <strong>DISEÑA</strong> <br>
+                Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
+                en 3D, te permite gracias a sus herramientas innovar y desarollar tus propios productos.
+            </div>
+            <div class="w3-third mitadcentro">
+            <img src="" alt="">
+                <h2>CAMWorks</h2>
+                <strong>SIMULA</strong> <br>
+                La conexión entre el diseño y mecanizado CNC para crear código G y la simulación de 
+                maquinados CNC, integrado totalmente a SOLIDWORKS será mas fácil las actualizaciones de diseño.
+            </div>
+            <div class="w3-third mitadder">
+            <img src="" alt="">
+                <h2>Capacitación</h2>
+                <strong>APRENDE</strong> <br>
+                Visita nuestros distintos centros de capacitación equipadas y acondicionadas SOLIDWORKS 
+                en México, Guadalajara y Monterrey, ven y descubre porque somos ideal para ti.
+            </div>
+        </div>
     </section>
     
 
