@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <?php $sec=1; ?>
     <?php include("header.php"); ?>
     <div class="banner-principal" style="height: 600px; background-color:aliceblue">
         <div class="contenido">
