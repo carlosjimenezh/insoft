@@ -74,7 +74,8 @@ button {
 	color: white;
 	cursor: pointer;
 	font-weight: bold;
-	padding: 7px 35px;
+	padding: 7px;
+	width: 200px;
 	-webkit-border-radius: 17px;
 	-moz-border-radius: 17px;
 	-ms-border-radius: 17px;

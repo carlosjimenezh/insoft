@@ -57,7 +57,13 @@
     </section>
 
     <section id="capacitacion">
-        
+        <div class="w3-center contenido" style="max-width: 700px;">
+            <h1>CAPACITACIÓN</h1>
+            Contamos con cursos desde nivel básico y más de 15 especialidades que te 
+            ayudarán a realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual.
+            <br>
+            <button>Contactar</button>
+        </div>
     </section>
     
 
