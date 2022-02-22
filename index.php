@@ -110,6 +110,16 @@
             </div>
         </div>
     </section>
+
+
+    <section id="cuadro-rojo">
+        <div style="height: 200px; background-color:red">
+            <div class=" contenido">
+                Conviertete en un experto
+                <img src="" alt="">
+            </div>
+        </div>
+    </section>
     
 
     <?php include("footer.html"); ?>
