@@ -51,7 +51,7 @@
 
 
     <section id="paralax" style="background-color: aliceblue; height:400px; position:relative">
-        <div class="w3-display-middle">
+        <div class="w3-display-middle txtblanco">
             PARALAX
         </div>
     </section>
@@ -114,7 +114,7 @@
 
     <section id="cuadro-rojo">
         <div style="height: 200px; background-color:red">
-            <div class=" contenido">
+            <div class=" contenido txtblanco">
                 Conviertete en un experto
                 <img src="" alt="">
             </div>
