@@ -13,8 +13,8 @@ font-size:14px
 
 a {text-decoration: none;}
 
-h1 {font-size: 30px;}
-h2 {font-size: 20px;}
+h1 {font-size: 30px; color: black; margin-bottom: 0;}
+h2 {font-size: 25px; color: #2465b1;}
 h3 {font-size: 18px;}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
