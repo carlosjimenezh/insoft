@@ -162,10 +162,14 @@
                 <input type="text" name="empresa" placeholder="Empresa o particular">
                 <input type="text" name="producto" placeholder="Diseño de producto">
             </div>
-            <input type="checkbox" name="capacitacion" id="">
-            <label for="capacitacion">CAPACITACIÓN</label>
-            <input type="checkbox" name="licencias" id="">
-            <label for="licencias">IMPLEMENTAR LICENCIAS</label>
+            <div class="checkboxs">
+                <input type="checkbox" name="capacitacion" id="">
+                &nbsp; &nbsp;
+                <label for="capacitacion">CAPACITACIÓN</label> <br>
+                <input type="checkbox" name="licencias" id="">
+                &nbsp; &nbsp;
+                <label for="licencias">IMPLEMENTAR LICENCIAS</label>
+            </div>
         </form>
         <a href="" class="btn">Enviar</a>
         <div class="contenido w3-center">
