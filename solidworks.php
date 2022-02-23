@@ -148,6 +148,34 @@
         </div>
     </section>
 
+
+    <section id="ventas">
+        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
+        <form action="" class="contenido w3-row">
+            <div class="w3-half">
+                <input type="text" name="nombre" placeholder="Nombre completo">
+                <input type="tel" name="telefono" placeholder="Teléfono">
+                <input type="emal" name="email" placeholder="E-mail">
+            </div>
+            <div class="w3-half">
+                <input type="text" name="ciudad" placeholder="Ciudad/País">
+                <input type="text" name="empresa" placeholder="Empresa o particular">
+                <input type="text" name="producto" placeholder="Diseño de producto">
+            </div>
+            <input type="checkbox" name="capacitacion" id="">
+            <label for="capacitacion">CAPACITACIÓN</label>
+            <input type="checkbox" name="licencias" id="">
+            <label for="licencias">IMPLEMENTAR LICENCIAS</label>
+        </form>
+        <a href="" class="btn">Enviar</a>
+        <div class="contenido w3-center">
+            Su información será tratada con confidencialidad lea nuestro <br>
+            <a href="">
+                Aviso de privacidad
+            </a>
+        </div>
+    </section>
+
     <?php include("footer.html"); ?>
 </body>
 </html>
