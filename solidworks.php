@@ -104,16 +104,45 @@
             <div class="w3-third mitadizq cflex">
                 <div style="border:1px solid black; width:100%">
                     <span>CAD en 3D de SOLIDWORKS</span>
+                    <span>Modelado de piezas y ensamblajes</span>
+                    <span>Dibujos 2D</span>
+                    <span>Reutilización y automatización del diseño</span>
+                    <span>Colaboración y uso compartido de datos CAD</span>
+                    <span>Comprobación de interferencias</span>
+                    <span>Herramientas de análisis preliminar</span>
+                    <span>Programación de CAM (SOLIDWORKS CAM)</span>
+                    <span>Diseño para la fabricación (DFM, del inglés "Design for Manufacturing")</span>
+                    <span>Herramientas de productividad</span>
+                    <span>Importación y exportación avanzadas de archivos de CAD y 3D Interconnect</span>
+                    <span>Exportador Xtended Reality (XR)</span>
+                    <a href="" class="btn">Más información</a>
                 </div>
             </div>
             <div class="w3-third mitadcentro cflex">
                 <div style="border:1px solid black">
-                    prueba   <br> <br>
+                    <span>SOLIDWORKS Básico</span>
+                    <span>Bibliotecas CAD (SOLIDWORKS Toolbox)</span>
+                    <span>Diseño según coste (SOLIDWORKS Costing)</span>
+                    <span>Colaboración de ECAD/MCAD (CircuitWorks)</span>
+                    <span>Comprobación de los estándares de CAD (Design Checker)</span>
+                    <span>Colaboración con eDrawings Professional</span>
+                    <span>Análisis automatizado del apilado de tolerancias (TolAnalyst)</span>
+                    <span>Renderizado fotorrealista avanzado (SOLIDWORKS Visualize)</span>
+                    <span>Gestión de archivos de SOLIDWORKS Ingeniería inversa (ScanTo3D)</span>
+                    <a href="" class="btn">Más información</a>
                 </div>
             </div>
             <div class="w3-third mitadder cflex">
                 <div style="border:1px solid black">
-                    prueba  
+                    <span>SOLIDWORKS Básico</span>
+                    <span>SOLIDWORKS Professional</span>
+                    <span>Análisis de movimiento basado en el tiempo</span>
+                    <span>Análisis estático lineal para piezas y ensamblajes</span>
+                    <span>Recorridos de tubos y tuberías</span>
+                    <span>Recorridos de cables eléctricos y mazos de cables eléctricos</span>
+                    <span>Aplanamiento avanzado de superficies</span>
+                    <span>Recorrido de secciones rectangulares y de otros tipos</span>
+                    <a href="" class="btn">Más información</a>
                 </div>
             </div>
         </div>
