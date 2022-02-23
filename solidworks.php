@@ -171,7 +171,9 @@
                 <label for="licencias">IMPLEMENTAR LICENCIAS</label>
             </div>
         </form>
-        <a href="" class="btn">Enviar</a>
+        <div class="lnazul">
+            <a href="" class="btn flotante">Enviar</a>
+        </div>
         <div class="contenido w3-center">
             Su información será tratada con confidencialidad lea nuestro <br>
             <a href="">
