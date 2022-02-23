@@ -110,6 +110,33 @@ footer {
 	padding: 50px
 }
 
+#paquetes .w3-third div {
+	border:1px solid #6C6C6C;
+	padding: 20px 15px;
+	position: relative;
+	width:100%
+}
+
+#paquetes .w3-third div a {
+	bottom: -18px;
+	right: 50%;
+	transform: translateX(50%);
+	-webkit-transform: translateX(50%);
+	-moz-transform: translateX(50%);
+	-ms-transform: translateX(50%);
+	-o-transform: translateX(50%);
+}
+
+#paquetes .w3-third span {
+	border-bottom: 1px solid #6C6C6C;
+	display: block;
+	padding: 5px 10px;
+}
+
+#paquetes .w3-third span:last-of-type {
+	border: none
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
