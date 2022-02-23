@@ -110,6 +110,11 @@ footer {
 	padding: 50px
 }
 
+#paquetes {
+	background-color: #f3f3f3;
+	padding: 80px 0
+}
+
 #paquetes .w3-third div {
 	border:1px solid #6C6C6C;
 	padding: 20px 15px;
