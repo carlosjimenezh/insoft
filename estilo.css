@@ -14,7 +14,7 @@ font-size:14px
 a {text-decoration: none;}
 
 h1 {font-size: 30px; color: black; margin-bottom: 0;}
-h2 {font-size: 25px; color: #2465b1;}
+h2 {font-size: 25px; color: #2465b1; margin-bottom: 0;}
 h3 {font-size: 18px;}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
@@ -34,10 +34,6 @@ hr{ border:#333 solid 1px;}
 
 .activo {
 	border-bottom: 2px solid white!important;
-}
-
-.flotante {
-	position: absolute;
 }
 
 .escribenos {
