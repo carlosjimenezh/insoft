@@ -159,6 +159,22 @@ footer {
 	margin: auto;
 }
 
+#ventas .lnazul {
+	height: 2px;
+	background-color: #2465b1;
+	position: relative;
+}
+
+#ventas .lnazul .btn {
+	top: -18px;
+	right: 50%;
+	transform: translateX(50%);
+	-webkit-transform: translateX(50%);
+	-moz-transform: translateX(50%);
+	-ms-transform: translateX(50%);
+	-o-transform: translateX(50%);
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
