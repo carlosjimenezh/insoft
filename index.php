@@ -112,11 +112,10 @@
 
 
     <section id="cuadro-rojo">
-        <div style="height: 200px; background-color:red">
-            <div class=" contenido txtblanco">
-                Conviertete en un experto
-                <img src="" alt="">
-            </div>
+        <div class=" contenido txtblanco">
+            Conviertete <br>
+            en un experto
+            <img src="" alt="">
         </div>
     </section>
     
