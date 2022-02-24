@@ -2,10 +2,10 @@
     <div class="contenido contactos txtazul">
         <div class="w3-right">
             <a href="">
-                (33) 3124 3922
+                (33)&nbsp;3124&nbsp;3922
             </a>
             <a href="">
-                (55) 4612 0706
+                (55)&nbsp;4612&nbsp;0706
             </a>
             <a href="">
                 contacto@insoftnc.com
