@@ -14,7 +14,7 @@ font-size:14px
 a {text-decoration: none;}
 
 h1 {font-size: 30px; color: black; margin-bottom: 0;}
-h2 {font-size: 25px; color: #2465b1; margin-bottom: 0;}
+h2 {font-size: 25px; color: #2465b1; margin: 0;}
 h3 {font-size: 18px;}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
@@ -137,6 +137,10 @@ footer {
 	background-color:red;
 	font-size: 50px;
 	height: 400px; 
+}
+
+#centro-capacitacion .mitadizq {
+	border-right: 1px solid;
 }
 
 #paquetes {
