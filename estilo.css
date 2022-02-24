@@ -126,6 +126,13 @@ footer {
 	color: black;
 }
 
+#paralax {
+	background-color: aliceblue; 
+	font-size: 100px;
+	height:400px; 
+	position:relative
+}
+
 #paquetes {
 	background-color: #f3f3f3;
 	padding: 80px 0

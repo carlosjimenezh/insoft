@@ -49,7 +49,7 @@
     </section>
 
 
-    <section id="paralax" style="background-color: aliceblue; height:400px; position:relative">
+    <section id="paralax">
         <div class="w3-display-middle txtblanco">
             PARALAX
         </div>
