@@ -108,6 +108,7 @@ header .contactos .w3-right {
 	font-weight: bold;
 	flex-wrap: wrap;
 	gap: 0 40px;
+	justify-content: flex-end;
 	margin-bottom: 10px
 }
 
