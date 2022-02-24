@@ -133,6 +133,12 @@ footer {
 	position:relative
 }
 
+#cuadro-rojo {
+	background-color:red;
+	font-size: 50px;
+	height: 400px; 
+}
+
 #paquetes {
 	background-color: #f3f3f3;
 	padding: 80px 0
