@@ -107,8 +107,24 @@
 
 
     <section id="paquetes">
+        <div class="contenido w3-row w3-center w3-hide-small">
+            <div class="w3-third mitadizq">
+                <h2>CAD MECÁNICO EN 3D</h2>
+                <h2><strong>STANDAR</strong></h2>
+            </div>
+            <div class="w3-third mitadcentro">
+                <h2>CAD MECÁNICO EN 3D</h2>
+                <h2><strong>PROFESIONAL</strong></h2>
+            </div>
+            <div class="w3-third mitadder">
+                <h2>CAD MECÁNICO EN 3D</h2>
+                <h2><strong>PREMIUM</strong></h2>
+            </div>
+        </div>
         <div class="contenido w3-row cflex">
             <div class="w3-third mitadizq cflex">
+                <h2 class="w3-center w3-hide-medium w3-hide-large">CAD MECÁNICO EN 3D</h2>
+                <h2 class="w3-center w3-hide-medium w3-hide-large"><strong>STANDAR</strong></h2>
                 <div>
                     <span>CAD en 3D de SOLIDWORKS</span>
                     <span>Modelado de piezas y ensamblajes</span>
