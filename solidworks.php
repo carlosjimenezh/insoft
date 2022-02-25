@@ -16,7 +16,7 @@
         </div>
     </div>
 
-    <section class="contenido w3-center" style="max-width:800px">
+    <section id="frase" class="contenido w3-center" style="max-width:800px">
         <h3>Si piensas en diseñar, piensa en SOLIDWORKS, si piensas innovar, piensa en INSOFT</h3>
         Soluciones de diseño en 3D intuitivas que le permiten centrarse en su producto y no en el 
         funcionamiento del software, para producir a mayor velocidad sus diseños.
@@ -74,7 +74,7 @@
 
 
     <section class="contenido">
-        <h3 class="w3-center">¿Que incluye este paquete de SOLIDWORKS 3D CAD?</h3>
+        <h3 class="w3-center margensupinf">¿Que incluye este paquete de SOLIDWORKS 3D CAD?</h3>
         <div class="w3-row">
             <div class="w3-half mitadizq">
             Se bassa en las funcionalidades de SOLIDWORKS Profesional con colaboracion de ECAD/MCAD, 
