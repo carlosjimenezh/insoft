@@ -25,21 +25,21 @@
         </div>
         <div class="w3-row contenido w3-center">
             <div class="w3-third mitadizq">
-                <img src="" alt="">
+                <img class="imgmax" src="assets/circle.svg" alt="">
                 <h2>SOLIDWORKS</h2>
                 <strong>DISEÑA</strong> <br>
                 Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
                 en 3D, te permite gracias a sus herramientas innovar y desarollar tus propios productos.
             </div>
             <div class="w3-third mitadcentro">
-            <img src="" alt="">
+                <img class="imgmax" src="assets/circle.svg" alt="">
                 <h2>CAMWorks</h2>
                 <strong>SIMULA</strong> <br>
                 La conexión entre el diseño y mecanizado CNC para crear código G y la simulación de 
                 maquinados CNC, integrado totalmente a SOLIDWORKS será mas fácil las actualizaciones de diseño.
             </div>
             <div class="w3-third mitadder">
-            <img src="" alt="">
+                <img class="imgmax" src="assets/circle.svg" alt="">
                 <h2>Capacitación</h2>
                 <strong>APRENDE</strong> <br>
                 Visita nuestros distintos centros de capacitación equipadas y acondicionadas SOLIDWORKS 
@@ -66,13 +66,13 @@
         <div class="contenido w3-center">
             <div class="w3-row">
                 <div class="w3-third mitadizq">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>CLASE VIRTUAL</h2>
                     Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
                     en 3D, te permite gracias a sus herramientas innovar y desarollar tus propios productos.
                 </div>
                 <div class="w3-third mitadcentro">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>FECHAS</h2>
                     <b>HORARIO:</b> <br>
                     <b>Lunes a Viernes</b> <br> 
@@ -81,7 +81,7 @@
                     A partir de las 9 AM hasta las 2 PM.
                 </div>
                 <div class="w3-third mitadder">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>TEMARIOS</h2>
                     Conoce los cursos de SOLIDWORKS que tenemos para ti junto con el plan de estudios, 
                     duración, examenes de ubicación y los requisitos para mejorar tu aprendizaje.
@@ -89,19 +89,19 @@
             </div>
             <div class="w3-row">
                 <div class="w3-third mitadizq">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>CURSOS</h2>
                     Contamos con una amplia variedad de cursos que te ayudarán a desempeñarte 
                     de mejor manera en el ámbito laboral.
                 </div>
                 <div class="w3-third mitadcentro">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>DIPLOMADOS</h2>
                     Nuestros cursos y diplomados SOLIDWORKS tienen validez curricular lo cual 
                     tiene genera interés para la industria.
                 </div>
                 <div class="w3-third mitadder">
-                    <img src="" alt="">
+                    <img class="imgmax" src="assets/circle.svg" alt="">
                     <h2>CERTIFICIONES</h2>
                     Te permitirán diseñar, gestionar, analizar, competir y sobresalir, sobre los 
                     demás ingenieros a nivel mundial.
