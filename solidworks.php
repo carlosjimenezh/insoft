@@ -16,16 +16,19 @@
         </div>
     </div>
 
-    <section id="frase" class="contenido w3-center" style="max-width:800px">
+    <section id="frase" class="contenido w3-center">
         <h3>Si piensas en diseñar, piensa en SOLIDWORKS, si piensas innovar, piensa en INSOFT</h3>
         Soluciones de diseño en 3D intuitivas que le permiten centrarse en su producto y no en el 
         funcionamiento del software, para producir a mayor velocidad sus diseños.
     </section>
 
 
-    <section class="contenido" style="max-width:1350px">
+    <section id="rectangulos" class="contenido" style="max-width:1350px">
         <div style="border: 1px solid black;">
             <div class="contenido w3-row">
+                <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
+                    <img src="assets/rectangle.png" alt="">
+                </div>
                 <div class="w3-half mitadizq">
                     <h2>CAD MECÁNICO EN 3D</h2>
                     <h2><strong>STANDAR</strong></h2>
@@ -35,16 +38,16 @@
                     impacto medioambiental de los componentes. <br>
                     <a href="" class="btn">Más información</a>
                 </div>
-                <div class="w3-half mitadder">
-                    <img src="" alt="">
+                <div class="w3-half mitadder w3-hide-small">
+                    <img src="assets/rectangle.png" alt="">
                 </div>
             </div>
         </div>
         <div class="contenido w3-row">
-            <div class="w3-half mitadder">
-                <img src="" alt="">
-            </div>
             <div class="w3-half mitadizq">
+                <img src="assets/rectangle.png" alt="">
+            </div>
+            <div class="w3-half mitadder">
                 <h2>CAD MECÁNICO EN 3D</h2>
                 <h2><strong>PROFESIONAL</strong></h2>
                 SolidWorks Professional contiene bibliotecas de piezas y tornillería, herramientas para 
@@ -56,6 +59,9 @@
         </div>
         <div style="border: 1px solid black;">
             <div class="contenido w3-row">
+                <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
+                    <img src="assets/rectangle.png" alt="">
+                </div>
                 <div class="w3-half mitadizq">
                         <h2>CAD MECÁNICO EN 3D</h2>
                         <h2><strong>PREMIUM</strong></h2>
@@ -65,8 +71,9 @@
                         recorridos de tuberías y cables, ingeniería inversa, entre otras. <br>
                         <a href="" class="btn">Más información</a>
                     </div>
-                    <div class="w3-half mitadder">
-                        <img src="" alt="">
+                    <div class="w3-half mitadder w3-hide-small">
+                        <img src="assets/rectangle.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>
