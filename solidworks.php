@@ -197,11 +197,11 @@
             </div>
         </form>
         <div class="lnazul">
-            <a href="" class="btn flotante">Enviar</a>
+                <a href="" class="btn flotante">Enviar</a>
         </div>
         <div class="contenido w3-center">
             Su información será tratada con confidencialidad lea nuestro <br>
-            <a href="">
+            <a href="" onclick="privacidad()" style="text-decoration:underline">
                 Aviso de privacidad
             </a>
         </div>
