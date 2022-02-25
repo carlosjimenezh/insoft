@@ -116,7 +116,7 @@ header .contactos .w3-right {
 	flex-wrap: wrap;
 	gap: 0 40px;
 	justify-content: flex-end;
-	margin-bottom: 10px
+	padding: 10px 0;
 }
 
 header nav img {
@@ -171,7 +171,12 @@ footer {
 
 #paquetes {
 	background-color: #f3f3f3;
-	padding: 80px 0
+	padding: 80px 0;
+	margin-top: 70px;
+}
+
+#paquetes h2 {
+	font-size: 23px;
 }
 
 #paquetes .w3-third div {
