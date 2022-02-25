@@ -142,6 +142,9 @@
                 </div>
             </div>
             <div class="w3-third mitadcentro cflex">
+                <br class="w3-hide-medium w3-hide-large">
+                <h2 class="w3-center w3-hide-medium w3-hide-large">CAD MECÁNICO EN 3D</h2>
+                <h2 class="w3-center w3-hide-medium w3-hide-large"><strong>PROFESIONAL</strong></h2>
                 <div>
                     <span>SOLIDWORKS Básico</span>
                     <span>Bibliotecas CAD (SOLIDWORKS Toolbox)</span>
@@ -156,6 +159,9 @@
                 </div>
             </div>
             <div class="w3-third mitadder cflex">
+                <br class="w3-hide-medium w3-hide-large">
+                <h2 class="w3-center w3-hide-medium w3-hide-large">CAD MECÁNICO EN 3D</h2>
+                <h2 class="w3-center w3-hide-medium w3-hide-large"><strong>PREMIUM</strong></h2>
                 <div>
                     <span>SOLIDWORKS Básico</span>
                     <span>SOLIDWORKS Professional</span>
