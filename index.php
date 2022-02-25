@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
 </head>
-<body>
+<body id="insoft">
     <?php include("header.php"); ?>
     <div class="banner-principal" style="height: 600px; background-color:aliceblue">
         <div class="contenido">
