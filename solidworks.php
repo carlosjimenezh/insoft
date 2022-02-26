@@ -9,7 +9,7 @@
     <script type="text/javascript">
         function verifica()
         {
-            if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.informacion.value.trim()=="")
+            if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.producto.value.trim()=="")
             {
                 alert("Es necesario escribir tu nombre, e-mail e información adicional");     
             }
@@ -207,23 +207,21 @@
         <a name="scontacto"></a>
     	<?php
 	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
-        && isset($_POST['informacion']) && trim($_POST['email'])!="" && trim($_POST['nombre'])!="" 
-        && trim($_POST['informacion'])!=""){
+        && isset($_POST['producto']) && trim($_POST['email'])!="" && trim($_POST['nombre'])!="" 
+        && trim($_POST['producto'])!=""){
 
 			if(filter_var($_POST['email'],FILTER_VALIDATE_EMAIL)){	
 				$nombre=strip_tags($_POST['nombre']);
 				$from = $_POST['email'];
 				$email_from = $from;
-				$email_txt = "Este es un correo enviado desde el sitio web LOGITRAC<br><br>
+				$email_txt = "Este es un correo enviado desde el área de ventas SOLIDWORKS<br><br>
                 -Nombre: ".$nombre."<br>
-                -Apellido: ".$_POST['apellido']."<br>
                 "."-E-mail: ".$_POST['email']."<br>
                 "."-Empresa: ".strip_tags($_POST['empresa'])."<br>
                 "."-Teléfono: ".strip_tags($_POST['telefono'])."<br>
-                "."-Productos de interés: ".$_POST['producto']."<br>
-                "."-Demo: ".$_POST['demo']."<br>
-                "."-Tamaño de flotilla: ".$_POST['flotilla']."<br>
-                "."-¿Cómo se enteró?: ".$_POST['como']."<br> <br>
+                "."-Diseño de producto: ".$_POST['producto']."<br>
+                "."-Capacitación: ".$_POST['capacitacion']."<br> <br>
+                "."-Licencias: ".$_POST['licencias']."<br> <br>
                 "."-Información adicional: <br>  
                 ".nl2br(strip_tags($_POST['informacion']));
                 
@@ -260,7 +258,7 @@
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
-        <form action="contacto.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
+        <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
             <div class="w3-row">
                 <div class="w3-half mitadizq">
                     <input type="text" name="nombre" placeholder="Nombre completo">
