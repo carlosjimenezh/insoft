@@ -23,10 +23,10 @@
             <a href="capacitacion.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==4){ echo "activo";}?>">CAPACITACIÓN</a>
             <a href="3dexperience.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==5){ echo "activo";}?>">3D EXPERIENCE</a>
             <a href="contacto.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>
-            <button href="javascript:void(0)" class="w3-bar-item w3-right w3-hide-large w3-hide-medium" 
-            style="font-size: 1.5em; margin:0; padding-right:20px; background-color:white" onclick="myFunction()">
+            <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
+            style="font-size: 2.5em" onclick="myFunction()">
                 &#9776;
-            </button>
+            </a>
         </div>
     </nav>
 </header>
