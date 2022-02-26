@@ -203,7 +203,10 @@
             </div>
         </form>
         <div class="lnazul">
-                <a href="" class="btn flotante">Enviar</a>
+                <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
+                height:10px; width:240px">
+                    <a href="" class="btn flotante">Enviar</a>
+                </div>
         </div>
         <div class="contenido w3-center">
             Su información será tratada con confidencialidad lea nuestro <br>
