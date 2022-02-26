@@ -6,6 +6,28 @@
     <title>Solidworks</title>
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <script type="text/javascript">
+        function verifica()
+        {
+            if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.informacion.value.trim()=="")
+            {
+                alert("Es necesario escribir tu nombre, e-mail e información adicional");     
+            }
+            else
+            {
+                var s = document.contacto.email.value;
+                var filter=/^[A-Za-z][A-Za-z0-9_.ñÑ-]*@[A-Za-z0-9_ñÑ-]+\.[A-Za-z0-9_.ñÑ-]+[A-za-z]$/;
+                if(filter.test(s))
+                {            
+                    document.contacto.submit();
+                }
+                else
+                {
+                    alert("Por favor, escribe una dirección de e-mail válida");
+                }
+            }
+        }
+	</script>
 </head>
 <body>
     <?php $sec=2; ?>
@@ -182,7 +204,63 @@
 
     <section id="ventas">
         <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
-        <form action="" class="contenido">
+        <a name="scontacto"></a>
+    	<?php
+	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
+        && isset($_POST['informacion']) && trim($_POST['email'])!="" && trim($_POST['nombre'])!="" 
+        && trim($_POST['informacion'])!=""){
+
+			if(filter_var($_POST['email'],FILTER_VALIDATE_EMAIL)){	
+				$nombre=strip_tags($_POST['nombre']);
+				$from = $_POST['email'];
+				$email_from = $from;
+				$email_txt = "Este es un correo enviado desde el sitio web LOGITRAC<br><br>
+                -Nombre: ".$nombre."<br>
+                -Apellido: ".$_POST['apellido']."<br>
+                "."-E-mail: ".$_POST['email']."<br>
+                "."-Empresa: ".strip_tags($_POST['empresa'])."<br>
+                "."-Teléfono: ".strip_tags($_POST['telefono'])."<br>
+                "."-Productos de interés: ".$_POST['producto']."<br>
+                "."-Demo: ".$_POST['demo']."<br>
+                "."-Tamaño de flotilla: ".$_POST['flotilla']."<br>
+                "."-¿Cómo se enteró?: ".$_POST['como']."<br> <br>
+                "."-Información adicional: <br>  
+                ".nl2br(strip_tags($_POST['informacion']));
+                
+					$email_to= "caros.lapso@gmail.com";
+					$email_subject = "contacto de ".$nombre;
+				
+				$headers = "From: ".$email_from;
+				
+				$semi_rand = md5(time());
+				$mime_boundary = "==Multipart_Boundary_x{$semi_rand}x"; 
+                
+				$headers .= "\nMIME-Version: 1.0\n" . 
+							"Content-Type: multipart/mixed;\n" . 
+							" boundary=\"{$mime_boundary}\"";  
+				$email_message .= $email_txt. "\n\n" . 
+								"--{$mime_boundary}\n" . 
+								"Content-Type:text/html; charset=\"utf-8\"\n" . 
+							   "Content-Transfer-Encoding: 7bit\n\n" . 
+				$email_txt . "\n\n";  
+				
+				$data = chunk_split(base64_encode($data)); 
+				
+				$ok = @mail($email_to, $email_subject, $email_message, $headers); 
+				if($ok)
+					echo "<br><br><div class=\"aviso txtazul\">Gracias por escribirnos,<br>
+                    nos pondremos en contacto lo antes posible.</div><br><br><br>";
+				else
+					echo "<br><br><div class=\"aviso txtazul\">Hubo un error al enviar su mensaje, 
+                    inténtelo de nuevo o escríbanos a <span style=\"font-family:arial, 
+                    sans-serif\">ventas@pme.com.mx</span></div><br><br><br>";
+				
+			}
+			else
+				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
+	    }
+	    else{?>
+        <form action="contacto.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
             <div class="w3-row">
                 <div class="w3-half mitadizq">
                     <input type="text" name="nombre" placeholder="Nombre completo">
@@ -205,11 +283,14 @@
             </div>
         </form>
         <div class="lnazul">
-                <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
-                height:10px; width:240px">
-                    <a href="" class="btn flotante">Enviar</a>
-                </div>
+            <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
+            height:10px; width:240px">
+                <a onclick="verifica()" class="btn flotante">Enviar</a>
+            </div>
         </div>
+        <?php
+	    }?>
+        
         <div class="contenido w3-center">
             Su información será tratada con confidencialidad lea nuestro <br>
             <a href="" onclick="privacidad()" style="text-decoration:underline">
