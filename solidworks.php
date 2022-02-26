@@ -44,6 +44,8 @@
             </div>
         </div>
         <div class="contenido w3-row">
+            <br class="w3-hide-small">
+            <br class="w3-hide-small">
             <div class="w3-half mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
