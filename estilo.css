@@ -236,6 +236,20 @@ footer {
 	width: 100%;
 }
 
+#rectangulos .w3-row .flotante {
+	width: 100px;
+}
+
+#rectangulos .w3-row:nth-child(odd) .flotante {
+	bottom: 0;
+	right: 10%;
+}
+
+#rectangulos .w3-row:nth-child(even) .flotante {
+	bottom: 0;
+	left: 20%;
+}
+
 #ventas {
 	margin: 50px 0
 }
