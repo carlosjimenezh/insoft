@@ -16,7 +16,6 @@ h1,h2,h3 {font-family: 'montserrat',Arial, sans-serif;}
 h1 {font-size: 35px; color: black; margin-bottom: 0;}
 h2 {font-size: 30px; color: #2465b1; margin: 0;}
 h3 {font-size: 35px; color: black;}
-strong {font-style: italic}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
 .aviso{ font-weight:bold; text-align:center; margin:auto}
@@ -169,14 +168,26 @@ footer {
 	height: 400px; 
 }
 
+#centro-capacitacion {
+	margin-bottom: 90px;
+}
+
 #centro-capacitacion .mitadizq {
 	border-right: 1px solid;
+}
+
+#centro-capacitacion h1 {
+	margin-bottom: 30px;
 }
 
 #paquetes {
 	background-color: #f3f3f3;
 	padding: 80px 0;
 	margin-top: 70px;
+}
+
+#paquetes strong {
+	font-style: italic;
 }
 
 #paquetes h2 {
