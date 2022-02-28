@@ -63,6 +63,7 @@
                 <div class="w3-half mitadder w3-hide-small">
                     <img src="assets/rectangle.png" alt="">
                 </div>
+                <img src="assets/circle.svg" alt="" class="flotante">
             </div>
         </div>
         <div class="contenido w3-row">
@@ -71,6 +72,7 @@
             <div class="w3-half mitadizq">
                 <img src="assets/rectangle.png" alt="">
             </div>
+            <img src="assets/circle.svg" alt="" class="flotante">
             <div class="w3-half mitadder">
                 <h2>CAD MECÁNICO EN 3D</h2>
                 <h2><strong>PROFESIONAL</strong></h2>
@@ -98,6 +100,7 @@
                     <div class="w3-half mitadder w3-hide-small">
                         <img src="assets/rectangle.png" alt="">
                     </div>
+                    <img src="assets/circle.svg" alt="" class="flotante">
                 </div>
             </div>
         </div>
