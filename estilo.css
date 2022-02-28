@@ -227,6 +227,7 @@ footer {
 }
 
 #rectangulos .w3-row {
+	position: relative;
 	padding-top:30px;
 	padding-bottom:100px;
 }
