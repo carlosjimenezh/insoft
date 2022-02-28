@@ -335,6 +335,10 @@ footer {
 	#cuadro-rojo {
 		font-size: 35px;
 	}
+	#rectangulos .w3-row:nth-child(even) .flotante {
+		left: auto;
+		right: 10%;
+	}
 	
 }
 .imgmax{
