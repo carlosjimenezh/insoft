@@ -93,6 +93,11 @@ header, header .contactos {
 	/* padding-top:10px */
 }
 
+header .contactos {
+	display: flex;
+	justify-content: end;
+}
+
 header nav {
 	background-color: rgb(0, 0, 0, 0.7);
 }
