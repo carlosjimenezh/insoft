@@ -109,6 +109,10 @@ header nav {
 	position: absolute
 }
 
+header .w3-dropdown-hover .w3-dropdown-content .w3-bar-item {
+	float: initial;
+}
+
 header nav .contenido {
 	align-items: center;
 	display: flex;
