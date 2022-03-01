@@ -117,6 +117,10 @@ header nav .contenido {
 	margin: 0 auto;
 }
 
+header .w3-bar {
+	overflow: visible;
+}
+
 header .w3-bar .w3-bar-item {
 	padding: 0
 }
