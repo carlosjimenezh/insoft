@@ -100,10 +100,30 @@
                 <a href="contacto.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>
             </div>
             <a href="javascript:void(0)" class="w3-hide-large w3-hide-medio" 
-            style="font-size: 2.5em" onclick="myFunction()">
+            style="font-size: 2.5em" onclick="mostrarMenu()">
                 &#9776;
             </a>
         </div>
+
+        <!-- collapsing menu -->
+        <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
+            <a href="" class="w3-bar-item">NOSOTROS</a>
+            <a href="" class="w3-bar-item">SOLIDWORKS</a>
+            <a href="" class="w3-bar-item">CAMWORKS</a>
+            <a href="" class="w3-bar-item">CAPACITACIÓN</a>
+            <a href="" class="w3-bar-item">3D EXPERIENCE</a>
+            <a href="" class="w3-bar-item">CONTACTO</a>    
+        </div>
+        <script>
+            function mostrarMenu() {
+                var x = document.getElementById("collapsing-menu");
+                if (x.className.indexOf("w3-show") == -1) {
+                    x.className += " w3-show";
+                } else { 
+                    x.className = x.className.replace(" w3-show", "");
+                }
+            }
+        </script>
     </nav>
 </header>
 
