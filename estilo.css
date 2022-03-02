@@ -144,10 +144,10 @@ header nav img {
 }
 
 #collapsing-menu a {
-	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 #collapsing-menu a:last-child {
-	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 footer {
