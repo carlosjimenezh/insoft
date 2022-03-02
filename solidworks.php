@@ -32,8 +32,8 @@
 <body>
     <?php $sec=2; ?>
     <?php include("header.php"); ?>
-    <div class="banner-principal" style="height: 600px; background-color:aliceblue">
-        <div class="contenido">
+    <div class="banner-principal" style="height: 600px; background-image:url(assets/banner.png)">
+        <div class="contenido" style="margin-top: 0;">
             prueba
         </div>
     </div>

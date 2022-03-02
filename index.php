@@ -9,9 +9,11 @@
 </head>
 <body id="insoft">
     <?php include("header.php"); ?>
-    <div class="banner-principal" style="height: 600px; background-color:aliceblue">
-        <div class="contenido">
-            prueba
+    <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)"">
+        <div class="contenido" style="margin-top: 0;">
+            CNC <br>
+            Fresa / Torno <br>
+            Realiza prácticas a pie de máquina
         </div>
     </div>
 
@@ -114,7 +116,7 @@
     <section id="cuadro-rojo">
         <div class=" contenido txtblanco">
             Conviertete <br>
-            en un experto
+            en un experto <br>
             <img src="" alt="">
         </div>
     </section>
