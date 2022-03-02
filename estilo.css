@@ -379,6 +379,20 @@ footer {
 		width:16px; padding-top: 10px;
 	}
 }
+@media only screen and (max-width: 800px) {
+	.ocultar-menu {
+		display: none;
+	}
+}
+
+@media (max-width: 992px) and (min-width: 801px){
+	.w3-hide-medio {
+		display: none!important;
+	}
+}
+
+
+	
 
 
 @font-face {
