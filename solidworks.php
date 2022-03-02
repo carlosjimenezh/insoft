@@ -222,11 +222,10 @@
                 "."-E-mail: ".$_POST['email']."<br>
                 "."-Empresa: ".strip_tags($_POST['empresa'])."<br>
                 "."-Teléfono: ".strip_tags($_POST['telefono'])."<br>
-                "."-Diseño de producto: ".$_POST['producto']."<br>
                 "."-Capacitación: ".$_POST['capacitacion']."<br> <br>
                 "."-Licencias: ".$_POST['licencias']."<br> <br>
-                "."-Información adicional: <br>  
-                ".nl2br(strip_tags($_POST['informacion']));
+                "."-Diseño de producto: <br>  
+                ".nl2br(strip_tags($_POST['producto']));
                 
 					$email_to= "caros.lapso@gmail.com";
 					$email_subject = "contacto de ".$nombre;
@@ -254,7 +253,7 @@
 				else
 					echo "<br><br><div class=\"aviso txtazul\">Hubo un error al enviar su mensaje, 
                     inténtelo de nuevo o escríbanos a <span style=\"font-family:arial, 
-                    sans-serif\">ventas@pme.com.mx</span></div><br><br><br>";
+                    sans-serif\">ventas@.com</span></div><br><br><br>";
 				
 			}
 			else
