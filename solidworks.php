@@ -206,7 +206,6 @@
 
 
     <section id="ventas">
-        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <a name="scontacto"></a>
     	<?php
 	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
@@ -260,6 +259,7 @@
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
+        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
             <div class="w3-row">
                 <div class="w3-half mitadizq">
