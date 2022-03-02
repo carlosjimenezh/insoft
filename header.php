@@ -17,7 +17,7 @@
             <a href="index.php" class="w3-left">
                 <img src="assets/logo-insoft.svg" alt="" style="width: 150px;">
             </a>
-            <div class="w3-dropdown-hover">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="nosotros.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
                 <div class="w3-dropdown-content">
                     <a href="" class="w3-bar-item">
@@ -28,7 +28,7 @@
                     </a>
                 </div>
             </div>
-            <div class="w3-dropdown-hover">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="solidworks.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==2){ echo "activo";}?>">SOLIDWORKS</a>
                 <div class="w3-dropdown-content">
                     <a href="" class="w3-bar-item">
@@ -51,7 +51,7 @@
                     </a>
                 </div>
             </div>
-            <div class="w3-dropdown-hover">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="camworks.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==3){ echo "activo";}?>">CAMWORKS</a>
                 <div class="w3-dropdown-content">
                     <a href="" class="w3-bar-item">
@@ -62,7 +62,7 @@
                     </a>
                 </div>
             </div>
-            <div class="w3-dropdown-hover">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="capacitacion.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==4){ echo "activo";}?>">CAPACITACIÓN</a>
                 <div class="w3-dropdown-content">
                     <a href="" class="w3-bar-item">
@@ -76,7 +76,7 @@
                     </a>
                 </div>
             </div>
-            <div class="w3-dropdown-hover">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="3dexperience.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==5){ echo "activo";}?>">3D EXPERIENCE</a>
                 <div class="w3-dropdown-content">
                     <a href="" class="w3-bar-item">
@@ -96,8 +96,10 @@
                     </a>
                 </div>
             </div>
-            <a href="contacto.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>
-            <a href="javascript:void(0)" class="w3-hide-large w3-hide-medium" 
+            <div class="ocultar-menu">
+                <a href="contacto.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>
+            </div>
+            <a href="javascript:void(0)" class="w3-hide-large w3-hide-medio" 
             style="font-size: 2.5em" onclick="myFunction()">
                 &#9776;
             </a>
