@@ -107,12 +107,12 @@
 
         <!-- collapsing menu -->
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
-            <a href="" class="w3-bar-item">NOSOTROS</a>
-            <a href="" class="w3-bar-item">SOLIDWORKS</a>
-            <a href="" class="w3-bar-item">CAMWORKS</a>
-            <a href="" class="w3-bar-item">CAPACITACIÓN</a>
-            <a href="" class="w3-bar-item">3D EXPERIENCE</a>
-            <a href="" class="w3-bar-item">CONTACTO</a>    
+            <a href="nosotros.php" class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
+            <a href="solidworks.php" class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">SOLIDWORKS</a>
+            <a href="camworks.php" class="w3-bar-item <?php if(isset($sec) && $sec==3){ echo "activo";}?>">CAMWORKS</a>
+            <a href="capacitacion.php" class="w3-bar-item <?php if(isset($sec) && $sec==4){ echo "activo";}?>">CAPACITACIÓN</a>
+            <a href="3dexperience.php" class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">3D EXPERIENCE</a>
+            <a href="contacto.php" class="w3-bar-item <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>    
         </div>
         <script>
             function mostrarMenu() {
