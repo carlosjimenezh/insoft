@@ -11,7 +11,7 @@
         {
             if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.producto.value.trim()=="")
             {
-                alert("Es necesario escribir tu nombre, e-mail e información adicional");     
+                alert("Es necesario escribir tu nombre, e-mail y el diseño de producto");     
             }
             else
             {
