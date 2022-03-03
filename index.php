@@ -9,11 +9,13 @@
 </head>
 <body id="insoft">
     <?php include("header.php"); ?>
-    <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)"">
-        <div class="contenido" style="margin-top: 0;">
-            CNC <br>
-            Fresa / Torno <br>
-            Realiza prácticas a pie de máquina
+    <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)">
+        <div class="contenido" style="margin-top: 0; position:relative; height:800px">
+            <div class="w3-display-bottomleft txtblanco texto">
+                <strong>CNC <br>
+                Fresa&nbsp;/&nbsp;Torno <br></strong>
+                Realiza prácticas a pie de máquina
+            </div>
         </div>
     </div>
 

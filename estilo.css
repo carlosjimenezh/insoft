@@ -144,6 +144,19 @@ header nav img {
 	width: 150px
 }
 
+#insoft .banner-principal .texto {
+	font-style: italic;
+	font-size:40px;
+	line-height: 1;
+	padding: 0 0 100px 30px; 
+	max-width: 100%;
+}
+
+#insoft .banner-principal .texto strong {
+	font-size: 55px;
+	font-style: normal;
+}
+
 #collapsing-menu a {
 	margin-bottom: 10px;
 }
