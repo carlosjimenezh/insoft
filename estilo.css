@@ -404,6 +404,9 @@ footer {
 	#insoft .banner-principal .texto strong {
 		font-size: 30px;
 	}
+	#centro-capacitacion .mitadizq {
+		border: none;
+	}
 }
 .imgmax{
 	max-width:100%; margin:auto
