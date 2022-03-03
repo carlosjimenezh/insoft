@@ -38,7 +38,7 @@
                         Solidworks Simulacion
                     </a>
                     <a href="" class="w3-bar-item">
-                        Solidworks SimulacionFflow
+                        Solidworks&nbsp;SimulacionFflow
                     </a>
                     <a href="" class="w3-bar-item">
                         Solidworks Plastics
@@ -89,7 +89,7 @@
                         3D Sculptor
                     </a>
                     <a href="" class="w3-bar-item">
-                        Collaborative Business Innovator
+                        Collaborative&nbsp;Business&nbsp;Innovator
                     </a>
                     <a href="" class="w3-bar-item">
                         Collaborative Industry Innovator
