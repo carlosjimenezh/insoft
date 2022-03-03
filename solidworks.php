@@ -11,7 +11,7 @@
         {
             if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.producto.value.trim()=="")
             {
-                alert("Es necesario escribir tu nombre, e-mail e información adicional");     
+                alert("Es necesario escribir tu nombre, e-mail y el diseño de producto");     
             }
             else
             {
@@ -206,7 +206,6 @@
 
 
     <section id="ventas">
-        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <a name="scontacto"></a>
     	<?php
 	    if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
@@ -222,11 +221,10 @@
                 "."-E-mail: ".$_POST['email']."<br>
                 "."-Empresa: ".strip_tags($_POST['empresa'])."<br>
                 "."-Teléfono: ".strip_tags($_POST['telefono'])."<br>
-                "."-Diseño de producto: ".$_POST['producto']."<br>
                 "."-Capacitación: ".$_POST['capacitacion']."<br> <br>
                 "."-Licencias: ".$_POST['licencias']."<br> <br>
-                "."-Información adicional: <br>  
-                ".nl2br(strip_tags($_POST['informacion']));
+                "."-Diseño de producto: <br>  
+                ".nl2br(strip_tags($_POST['producto']));
                 
 					$email_to= "caros.lapso@gmail.com";
 					$email_subject = "contacto de ".$nombre;
@@ -254,13 +252,14 @@
 				else
 					echo "<br><br><div class=\"aviso txtazul\">Hubo un error al enviar su mensaje, 
                     inténtelo de nuevo o escríbanos a <span style=\"font-family:arial, 
-                    sans-serif\">ventas@pme.com.mx</span></div><br><br><br>";
+                    sans-serif\">ventas@.com</span></div><br><br><br>";
 				
 			}
 			else
 				echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
 	    }
 	    else{?>
+        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
             <div class="w3-row">
                 <div class="w3-half mitadizq">
