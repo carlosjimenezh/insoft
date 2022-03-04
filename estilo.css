@@ -96,6 +96,13 @@ hr{ border:#333 solid 1px;}
 	margin: 0
 }
 
+.linea-fondo {
+	background-image: url(assets/linea.png);
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: 155px;
+} 
+
 header, header .contactos {
 	background-color: white;
 	margin: 0 auto;
@@ -407,6 +414,15 @@ footer {
 	#centro-capacitacion .mitadizq {
 		border: none;
 	}
+	.linea-fondo { 
+		background-image: none;
+	}
+	.linea-fondo-small {
+		background-image: url(assets/linea.png);
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position-y: 155px;
+	} 
 }
 .imgmax{
 	max-width:100%; margin:auto
