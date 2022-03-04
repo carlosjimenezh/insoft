@@ -27,7 +27,9 @@
             <br>
             <a href="" class="btn">Más información</a>
         </div>
-        <div class="w3-row contenido w3-center">
+        <div class="w3-row contenido w3-center" style="background-image: url(assets/linea.png);background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: 155px;">
             <div class="w3-third mitadizq">
                 <img class="imgmax" src="assets/circle.svg" alt="">
                 <h2>SOLIDWORKS</h2>
