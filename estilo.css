@@ -123,6 +123,7 @@ header nav {
 
 header .w3-dropdown-hover .w3-dropdown-content .w3-bar-item {
 	float: initial;
+	padding: 0 0 5px
 }
 
 header nav .contenido {
