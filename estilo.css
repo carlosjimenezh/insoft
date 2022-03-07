@@ -43,6 +43,7 @@ hr{ border:#333 solid 1px;}
 
 .activo {
 	border-bottom: 2px solid white!important;
+	margin-bottom: -2px;
 }
 
 .escribenos {
