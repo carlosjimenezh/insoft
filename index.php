@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Insoft</title>
+    <link rel="stylesheet" href="swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body id="insoft">
     <?php include("header.php"); ?>
-    <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)">
+    <!-- <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)">
         <div class="contenido" style="margin-top: 0; position:relative; height:800px">
             <div class="w3-display-bottomleft txtblanco texto">
                 <strong>CNC <br>
@@ -143,5 +144,29 @@
     </section>
 
     <?php include("footer.html"); ?>
+    <!-- swiperjs js -->
+    <script src="swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper', {
+        spaceBetween: 30, 
+        speed: 800,
+        disableOnInteraction: false,
+        effect: 'fade',
+        adeEffect: {
+            crossFade: true
+        },
+        // navigation: {
+        //     nextEl: '.swiper-button-next',
+        //     prevEl: '.swiper-button-prev',
+        // },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        } ,
+            autoplay: {
+            delay: 3000,
+        }
+        });
+    </script>
 </body>
 </html>
