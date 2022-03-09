@@ -18,7 +18,21 @@
                 Realiza prácticas a pie de máquina
             </div>
         </div>
-    </div>
+    </div> -->
+    <section class="carrusel">
+        <div class="swiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
+                <div class="lnazul" style="margin: 0;"></div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </section>
 
     <section id="productos">
         <div class="w3-center contenido" style="max-width: 700px;">
