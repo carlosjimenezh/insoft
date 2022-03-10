@@ -20,13 +20,13 @@
                 <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
             </div>
             <!-- Add Pagination -->
-            <div style="max-width: max-content; padding:0 20px; background:red; position:relative;
-            z-index:99; margin:auto">
-                <div class="swiper-pagination"></div>
-                <div class="swiper-button-prev"></div>
-                <div class="swiper-button-next"></div>
+            <div style="width: max-content; padding:0 20px; background:red; position:relative;
+            z-index:99; margin:auto; bottom: 10px; height:25px">
+                <div class="swiper-pagination" style="padding: 4px 20px 0;"></div>
+                <div class="swiper-button-prev txtblanco" style="font-size: 30px;"></div>
+                <div class="swiper-button-next txtblanco" style="font-size: 30px;"></div>
             </div>
-            <div class="lnazul" style="width: 100%; position:absolute; z-index:44;bottom:-24px;
+            <div class="lnazul" style="width: 100%; position:relative; z-index:44;top: -54px;
             background-color:white"></div>
         </div>
     </section>
