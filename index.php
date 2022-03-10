@@ -10,27 +10,24 @@
 </head>
 <body id="insoft">
     <?php include("header.php"); ?>
-    <!-- <div class="banner-principal" style="height: 800px; background-image:url(assets/banner.png)">
-        <div class="contenido" style="margin-top: 0; position:relative; height:800px">
-            <div class="w3-display-bottomleft txtblanco texto">
-                <strong>CNC <br>
-                Fresa&nbsp;/&nbsp;Torno <br></strong>
-                Realiza prácticas a pie de máquina
-            </div>
-        </div>
-    </div> -->
     <section class="carrusel">
         <div class="swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
                 <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
                 <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
-                <div class="lnazul" style="margin: 0;"></div>
+                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
             </div>
             <!-- Add Pagination -->
-            <div class="swiper-pagination"></div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
+            <div style="max-width: max-content; padding:0 20px; background:red; position:relative;
+            z-index:99; margin:auto">
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+            <div class="lnazul" style="width: 100%; position:absolute; z-index:44;bottom:-24px;
+            background-color:white"></div>
         </div>
     </section>
 
@@ -169,14 +166,10 @@
         adeEffect: {
             crossFade: true
         },
-        // navigation: {
-        //     nextEl: '.swiper-button-next',
-        //     prevEl: '.swiper-button-prev',
-        // },
         pagination: {
             el: '.swiper-pagination',
             clickable: true,
-        } ,
+        },
             autoplay: {
             delay: 3000,
         }
