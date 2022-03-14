@@ -216,17 +216,23 @@
 				$nombre=strip_tags($_POST['nombre']);
 				$from = $_POST['email'];
 				$email_from = $from;
-				$email_txt = "Este es un correo enviado desde el área de ventas SOLIDWORKS<br><br>
-                -Nombre: ".$nombre."<br>
-                "."-E-mail: ".$_POST['email']."<br>
-                "."-Empresa: ".strip_tags($_POST['empresa'])."<br>
-                "."-Teléfono: ".strip_tags($_POST['telefono'])."<br>
-                "."-Capacitación: ".$_POST['capacitacion']."<br> <br>
-                "."-Licencias: ".$_POST['licencias']."<br> <br>
-                "."-Diseño de producto: <br>  
-                ".nl2br(strip_tags($_POST['producto']));
+				$email_txt = "Este es un correo enviado desde el formulario web de SOLIDWORKS<br><br>
+                &middot; Nombre: ".$nombre."<br>
+                &middot; E-mail: ".$_POST['email']."<br>
+                &middot; Empresa: ".strip_tags($_POST['empresa'])."<br>
+                &middot; Teléfono: ".strip_tags($_POST['telefono'])."<br>
+				&middot; Diseño de producto: ".strip_tags($_POST['producto'])."<br><br>";
+				
+				if($_POST['capacitacion'] || $_POST['licencias']){
+					$email_txt.="INTERÉS:<br>";
+					if($_POST['capacitacion'])
+						$email_txt.="- Capacitación<br>";
+					if($_POST['licencias'])
+						$email_txt.="- Implementar licencias<br>";
+				}
+				
                 
-					$email_to= "caros.lapso@gmail.com";
+					$email_to= "carlosejimenezh95@gmail.com";
 					$email_subject = "contacto de ".$nombre;
 				
 				$headers = "From: ".$email_from;
@@ -274,12 +280,12 @@
                 </div>
             </div>
             <div class="checkboxs">
-                <input type="checkbox" name="capacitacion" id="">
+                <input type="checkbox" name="capacitacion" id="chkcapacitacion">
                 &nbsp; &nbsp;
-                <label for="capacitacion">CAPACITACIÓN</label> <br>
-                <input type="checkbox" name="licencias" id="">
+                <label for="chkcapacitacion">CAPACITACIÓN</label> <br>
+                <input type="checkbox" name="licencias" id="chklicencias">
                 &nbsp; &nbsp;
-                <label for="licencias">IMPLEMENTAR LICENCIAS</label>
+                <label for="chklicencias">IMPLEMENTAR LICENCIAS</label>
             </div>
         </form>
         <div class="lnazul">
