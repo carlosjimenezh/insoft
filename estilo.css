@@ -459,8 +459,13 @@ footer .redes img {
 	footer {
 		font-size: 16px;
 	}
-	footer img {
-		width: 15px;
+	footer .redes {
+		height: 20px;
+		width: 20px
+	}
+	footer .redes img {
+		padding-bottom: 8px;
+		width: 13px;
 	}
 }
 .imgmax{
