@@ -185,6 +185,16 @@ footer {
 	padding: 50px 0
 }
 
+footer .redes {
+	border: 1px solid white;
+	border-radius: 50%;
+	display: inline-block; 
+	height: 25px; 
+	margin-right: 5px; 
+	vertical-align: middle; 
+	width:25px
+}
+
 footer img {
 	padding-bottom: 10px;
 	width: 15px
