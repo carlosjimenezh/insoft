@@ -191,7 +191,7 @@ footer .redes {
 	display: inline-block; 
 	height: 25px; 
 	margin-right: 5px; 
-	vertical-align: middle; 
+	vertical-align: text-bottom; 
 	width:25px
 }
 
