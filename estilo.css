@@ -191,13 +191,13 @@ footer .redes {
 	display: inline-block; 
 	height: 25px; 
 	margin-right: 5px; 
+	position: relative;
 	vertical-align: text-bottom; 
 	width:25px
 }
 
 footer .redes img {
 	filter: invert(1);
-	padding-bottom: 12px;
 	width: 15px;
 	-webkit-filter: invert(1);
 }
@@ -464,7 +464,6 @@ footer .redes img {
 		width: 20px
 	}
 	footer .redes img {
-		padding-bottom: 8px;
 		width: 13px;
 	}
 }
