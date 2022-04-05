@@ -400,6 +400,14 @@ footer .redes img {
 	padding:0 5px
 }
 .mitad{width:50%; float:left}
+@media only screen and (min-width: 601px) and (max-width:993px) {
+	#capacitacion .w3-row img, #productos .w3-row img { 
+		width: 170px
+	}
+	.linea-fondo {
+		background-position-y: 145px
+	}
+}
 @media only screen and (max-width:600px){
 	.cuerpo{
 		margin:0 10px
