@@ -8,7 +8,15 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <?php include('header.php'); ?>
+    <?php 
+        $sec=4;
+        include('header.php'); 
+    ?>
+    <div class="banner-principal" style="height: 600px; background-image:url(assets/banner.png)">
+        <div class="contenido" style="margin-top: 0;">
+            prueba
+        </div>
+    </div>
 
     <?php include('footer.html'); ?>
 </body>
