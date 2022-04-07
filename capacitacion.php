@@ -24,6 +24,110 @@
         realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
     </section>
 
+    <section class="contenido" style="max-width: 900px">
+        <div class="w3-row">
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>SOLIDWORKS Básico</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>SOLIDWORKS Intermedio</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>SOLIDWORKS Avanzado</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>SOLIDWORKS Especialidades</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>CAMWorks</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>CAMWorks Avanzado</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>CNC Fresa</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>CNC Torno</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+            <div class="w3-col m3 w3-center">
+                <img src="assets/circle.svg" alt="" width="100px">
+            </div>
+            <div class="w3-col m9">
+                <h2>CNC Router</h2>
+                <b>Duración:</b> 20 horas <br>
+                <b>Conocimientos:</b> Manejo básico de computadora <br>
+                <b>Modalidad:</b> Virtual o presencial. <br>
+                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.html'); ?>
 </body>
 </html>
