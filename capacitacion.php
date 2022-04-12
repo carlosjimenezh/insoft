@@ -450,6 +450,24 @@
         </div>
     </section>
 
+    <section>
+        <div class="w3-row contenido">
+            <div class="w3-half mitadizq">
+                <h2>Impresiones 3D</h2>
+                Permiten realizar réplicas, como piezas o maquetas de diseños en 3D creados 
+                por medio de SOLIDWORKS u otro CAD 3D, además de soporte para tus proyectos y 
+                cotizaciones sin costo <br>
+                <b>¿Cómo funciona?</b>
+                Un filamento plástico (ABS), se coloca en una boquilla, la cual funde el material y 
+                puede desplazarse en tres ejes controlada electrónicamente."
+            </div>
+            <div class="w3-half mitadder" style="position: relative;">
+                <img src="assets/rectangle.png" alt="" width="100%">
+                <img src="assets/circle.svg" alt="" width="100px" style="position: absolute; bottom:0; right:50px">
+            </div>
+        </div>
+    </section>
+
     <?php include('footer.html'); ?>
 </body>
 </html>
