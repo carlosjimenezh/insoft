@@ -128,6 +128,43 @@
         </div>
     </section>
 
+    <section>
+        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
+        <div class="w3-row contenido">
+            <div class="w3-half mitadizq">
+                <h2>SOLIDWORKS Básico</h2>
+                <b>Objetivo de aprendizaje</b> <br>
+                En el curso de SOLIDWORKS Básico aprenderá los conceptos básicos de SOLIDWORKS le enseña 
+                a utilizar el software de automatización de diseño mecánico SOLIDWORKS para construir modelos 
+                paramétricos de piezas y ensamblajes, así como a realizar dibujos de dichas piezas y ensamblajes.
+                <img src="assets/rectangle.png" alt="" width="100%">
+            </div>
+            <div class="w3-half mitadder">
+                <div class="w3-row">
+                    <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
+                        <input type="text" name="nombre" placeholder="Nombre completo">
+                        <input type="tel" name="telefono" placeholder="Teléfono">
+                        <input type="emal" name="email" placeholder="E-mail">
+                        <input type="text" name="ciudad" placeholder="Ciudad/País">
+                        <input type="text" name="empresa" placeholder="Empresa o particular">
+                        <input type="text" name="producto" placeholder="Diseño de producto">
+                        <div class="checkboxs">
+                            <input type="checkbox" name="capacitacion" id="chkcapacitacion">
+                            &nbsp; &nbsp;
+                            <label for="chkcapacitacion">CAPACITACIÓN</label> <br>
+                            <input type="checkbox" name="licencias" id="chklicencias">
+                            &nbsp; &nbsp;
+                            <label for="chklicencias">IMPLEMENTAR LICENCIAS</label>
+                        </div>
+                    </form>
+                    <div>
+                       <a onclick="verifica()" class="btn flotante">Enviar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="especialidades" class="contenido">
         <div style="max-width: 680px; margin:auto">
             <h3 class="w3-center">ESPECIALIDADES SOLIDWORKS</h3>
