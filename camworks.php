@@ -30,10 +30,10 @@
                     Use y administre solo un archivo para los sistemas CAD y CAM."
                     <a href="" class="btn">Más información</a>
                 </div>
-                <div class="w3-half mitadder">
-                    <img src="assets/rectangle.png" alt="">
+                <div class="w3-half mitadder" style="position: relative;">
+                    <img src="assets/rectangle.png" alt="" width="100%">
+                    <img src="assets/circle.svg" alt="" class="flotante" width="100px" style="bottom: 0; right:100px">
                 </div>
-                <img src="assets/circle.svg" alt="" class="flotante" width="100px">
             </div>
         </div>
     </section>
