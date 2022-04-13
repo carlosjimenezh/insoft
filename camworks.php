@@ -20,10 +20,17 @@
                 <div class="w3-half mitadizq">
                     <h2>CAD MECÁNICO EN 3D</h2>
                     <h2><strong>STANDAR</strong></h2>
-                    Ofrece acceso a todas las herramientas necesarias para realizar superficies complejas, 
-                    chapas desplegadas de chapa metálica y ensamblajes soldados estructurales. Además, incluye 
-                    asistentes para automatizar los diseños, realizar análisis de tensión y determinar el 
-                    impacto medioambiental de los componentes. <br>
+                    "Solución CAM para SOLIDWORKS <br>
+                    CAMWorks modifica el diseño de manera automática actualizando los datos de CAM lo que 
+                    elimina el tiempo de reproceso del sistema CAM debido a alteraciones en el diseño. <br>
+                    Utilice la misma geometría de SOLIDWORKS para generar trayectorias de herramientas para 
+                    garantizar que la pieza mecanizada sea la misma que la pieza que se modela. <br>
+                    Elimine las transferencias de archivos que consumen mucho tiempo utilizando formatos 
+                    de archivo estándar como IGES y STP. <br>
+                    Utilice el árbol de mecanizado y los comandos de CAMWorks con solo hacer clic en un 
+                    botón junto con SOLIDWORKS además de generar trayectorias de herramientas sin abandonar 
+                    el entorno familiar de SOLIDWORKS. <br>
+                    Use y administre solo un archivo para los sistemas CAD y CAM."
                     <a href="" class="btn">Más información</a>
                 </div>
                 <div class="w3-half mitadder w3-hide-small">
