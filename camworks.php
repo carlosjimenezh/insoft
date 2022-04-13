@@ -14,9 +14,6 @@
     <section class="contenido" style="max-width: 1350px">
         <div style="border: 1px solid black;margin-top:200px">
             <div class="contenido w3-row">
-                <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
-                    <img src="assets/rectangle.png" alt="">
-                </div>
                 <div class="w3-half mitadizq">
                     <h2>CAD MECÁNICO EN 3D</h2>
                     <h2><strong>STANDAR</strong></h2>
@@ -33,7 +30,7 @@
                     Use y administre solo un archivo para los sistemas CAD y CAM."
                     <a href="" class="btn">Más información</a>
                 </div>
-                <div class="w3-half mitadder w3-hide-small">
+                <div class="w3-half mitadder">
                     <img src="assets/rectangle.png" alt="">
                 </div>
                 <img src="assets/circle.svg" alt="" class="flotante" width="100px">
