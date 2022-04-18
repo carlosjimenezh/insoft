@@ -13,10 +13,9 @@
 
     <section class="contenido" style="max-width: 1350px">
         <div style="border: 1px solid black;margin-top:200px">
+        <h2 class="contenido">SOFTWARE <br> <strong>CAM PARA CNC</strong> </h2>
             <div class="contenido w3-row">
                 <div class="w3-half mitadizq">
-                    <h2>CAD MECÁNICO EN 3D</h2>
-                    <h2><strong>STANDAR</strong></h2>
                     "Solución CAM para SOLIDWORKS <br>
                     CAMWorks modifica el diseño de manera automática actualizando los datos de CAM lo que 
                     elimina el tiempo de reproceso del sistema CAM debido a alteraciones en el diseño. <br> <br>
