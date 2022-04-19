@@ -41,21 +41,21 @@
         </div>
         <div class="w3-row contenido w3-center linea-fondo">
             <div class="w3-third mitadizq linea-fondo-small">
-                <div class="circular"></div>
+                <div class="circular" style="background-image: url('assets/solidworks-insoft.jpeg');"></div>
                 <h2>SOLIDWORKS</h2>
                 <strong>DISEÑA</strong> <br>
                 Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
                 en 3D, te permite gracias a sus herramientas innovar y desarollar tus propios productos.
             </div>
             <div class="w3-third mitadcentro linea-fondo-small"> 
-                <div class="circular"></div>
+                <div class="circular" style="background-image: url('assets/camworks-insoft.jpeg');"></div>
                 <h2>CAMWorks</h2>
                 <strong>SIMULA</strong> <br>
                 La conexión entre el diseño y mecanizado CNC para crear código G y la simulación de 
                 maquinados CNC, integrado totalmente a SOLIDWORKS será mas fácil las actualizaciones de diseño.
             </div>
             <div class="w3-third mitadder linea-fondo-small">
-                <div class="circular"></div>
+                <div class="circular" style="background-image: url('assets/capacitacion-insoft.jpeg');"></div>
                 <h2>Capacitación</h2>
                 <strong>APRENDE</strong> <br>
                 Visita nuestros distintos centros de capacitación equipadas y acondicionadas SOLIDWORKS 
