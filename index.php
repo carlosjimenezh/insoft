@@ -41,7 +41,8 @@
         </div>
         <div class="w3-row contenido w3-center linea-fondo">
             <div class="w3-third mitadizq linea-fondo-small">
-                <div class="circular" style="background-image: url('assets/solidworks-insoft.jpeg');"></div>
+                <div class="circular" style="background-image: url('assets/solidworks-insoft.jpeg');">
+                </div>
                 <h2>SOLIDWORKS</h2>
                 <strong>DISEÑA</strong> <br>
                 Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
