@@ -32,7 +32,7 @@
 <body>
     <?php $sec=2; ?>
     <?php include("header.php"); ?>
-    <div class="banner-principal" style="height: 600px; background-image:url(assets/banner.png)">
+    <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
         <div class="contenido" style="margin-top: 0;">
             prueba
         </div>
