@@ -94,7 +94,8 @@ hr{ border:#333 solid 1px;}
 
 
 .circular {
-	background-color: red;
+	background-size: cover;
+	background-position: center;
 	width:200px;
 	height:200px;
 	border-radius:50%;
