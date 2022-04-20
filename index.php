@@ -13,11 +13,19 @@
     <section class="carrusel">
         <div class="swiper">
             <div class="swiper-wrapper">
-                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/banner.png)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)">
+                    <div class="contenido" style="height:100%; position: relative">
+                        <div class="w3-display-bottomleft txtblanco" style="bottom:100px">
+                            <span>CNC</span> <br>
+                            <span>Fresa / Torno</span> <br>
+                            Realiza prácticas a pie de máquina
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
             </div>
             <!-- Add Pagination -->
             <div style="width: max-content; padding:0 20px; background:red; position:relative;
