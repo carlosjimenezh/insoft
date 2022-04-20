@@ -244,6 +244,11 @@ footer .redes img {
 	height: 670px
 }
 
+.banner-principal span {
+	color: white;
+	font-size: 35px;
+}
+
 #productos, #capacitacion, #centro-capacitacion {
 	margin: 30px 0 50px;
 }
@@ -487,6 +492,9 @@ footer .redes img {
 	}
 	footer .redes img {
 		width: 13px;
+	}
+	.banner-principal span {
+		font-size: 20px;
 	}
 }
 .imgmax{

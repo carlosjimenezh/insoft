@@ -33,8 +33,8 @@
     <?php $sec=2; ?>
     <?php include("header.php"); ?>
     <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
-        <div class="contenido" style="margin-top: 0;">
-            prueba
+        <div class="w3-display-middle w3-center" style="font-size: 35px;">
+            <span>SOLUCIONES CAD 3D</span>
         </div>
     </div>
 
