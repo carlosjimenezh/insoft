@@ -15,9 +15,10 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)">
                     <div class="contenido" style="height:100%; position: relative">
-                        <div class="w3-display-bottomleft txtblanco" style="bottom:100px">
-                            <span>CNC</span> <br>
-                            <span>Fresa / Torno</span> <br>
+                        <div class="w3-display-bottomleft txtblanco" style="bottom:100px;font-size:35px;line-height:1.1;
+                        text-align:left">
+                            <span style="font-size:70px"><b>CNC</b></span> <br>
+                            <span style="font-size:45px"><b>Fresa / Torno</b></span> <br>
                             Realiza prácticas a pie de máquina
                         </div>
                     </div>
