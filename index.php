@@ -155,10 +155,12 @@
 
 
     <section id="cuadro-rojo">
-        <div class=" contenido txtblanco">
-            Conviertete <br>
-            en un experto <br>
-            <img src="" alt="">
+        <div class="contenido txtblanco" style="position: relative; height:100%">
+            <div class="w3-display-bottomleft" style="left:10px">
+                Conviertete <br>
+                en un experto <br>
+                <img src="" alt="">
+            </div>
         </div>
     </section>
     
