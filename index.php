@@ -159,7 +159,12 @@
             <div class="w3-display-bottomleft" style="left:10px">
                 Conviertete <br>
                 en un experto <br>
-                <img src="" alt="">
+            </div>
+            <div class="w3-display-bottommiddle	">
+                <img src="assets/man.png" alt="">
+            </div>
+            <div class="w3-display-right">
+                <img src="assets/circle.svg" alt="" width="100px">
             </div>
         </div>
     </section>
