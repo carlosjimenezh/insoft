@@ -12,9 +12,12 @@
         $sec=4;
         include('header.php'); 
     ?>
-    <div class="banner-principal" style="height: 600px; background-image:url(assets/banner.png)">
-        <div class="contenido" style="margin-top: 0;">
-            prueba
+    <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+        <div class="contenido" style="margin-top: 0;height:100%; position:relative">
+            <div class="w3-display-middle w3-center">
+                <span>CURSOS</span> <br>
+                <img src="assets/logo-solidworks.png" alt="">
+            </div>
         </div>
     </div>
 
@@ -165,101 +168,110 @@
         </div>
     </section>
 
-    <section id="especialidades" class="contenido">
-        <div style="max-width: 680px; margin:auto">
-            <h3 class="w3-center">ESPECIALIDADES SOLIDWORKS</h3>
-            Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a realizar tu 
-            trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
+    <section id="especialidades">
+        <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+            <div class="contenido" style="margin-top: 0;height:100%; position:relative">
+                <div class="w3-display-middle w3-center">
+                    <span>ESPECIALIDADES</span> <br>
+                    <img src="assets/logo-solidworks.png" alt="">
+                </div>
+            </div>
         </div>
-        <div class="w3-row centrar-small">
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                </div>
-                <div class="w3-col m9">
-                    <h2>Chapa Métalica</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
-                </div>
+        <div class="contenido">
+            <div style="max-width: 680px; margin:auto">
+                <h3 class="w3-center">ESPECIALIDADES SOLIDWORKS</h3>
+                Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a realizar tu 
+                trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
             </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+            <div class="w3-row centrar-small">
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Chapa Métalica</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-                <div class="w3-col m9">
-                    <h2>PDM Usuario</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>PDM Usuario</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Creating Animation</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-                <div class="w3-col m9">
-                    <h2>Creating Animation</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Photoview 360°</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Dibujo Avanzado</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-                <div class="w3-col m9">
-                    <h2>Photoview 360°</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Piezas Soldadas</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
+                    <div class="w3-col m9">
+                        <h2>Diseño de moldes</h2>
+                        Duración: 20 Horas <br> 
+                        Modalidades: Virtual o Presencial <br> 
+                        Guadalajara | México <br>
+                        Lunes a Viernes: 9 AM a 7 PM
+                    </div>
                 </div>
-                <div class="w3-col m9">
-                    <h2>Dibujo Avanzado</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
-                </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                </div>
-                <div class="w3-col m9">
-                    <h2>Piezas Soldadas</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
-                </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                </div>
-                <div class="w3-col m9">
-                    <h2>Diseño de moldes</h2>
-                    Duración: 20 Horas <br> 
-                    Modalidades: Virtual o Presencial <br> 
-                    Guadalajara | México <br>
-                    Lunes a Viernes: 9 AM a 7 PM
-                </div>
-            </div>
-            <div class="w3-half">
-                <div class="w3-col m3">
-                    <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                </div>
+                <div class="w3-half">
+                    <div class="w3-col m3">
+                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                    </div>
                 <div class="w3-col m9">
                     <h2>Plastics</h2>
                     Duración: 20 Horas <br> 
@@ -438,51 +450,61 @@
             </div>
         </div>
     </section>
-
-    <section id="certificaciones" class="contenido">
-        <div style="max-width: 680px; margin:auto">
-            <h3 class="w3-center">CERTIFICACIONES SOLIDWORKS</h3>
-            Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a 
-            realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
+    
+    <section id="certificaciones">
+        <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+            <div class="contenido" style="margin-top: 0;height:100%; position:relative">
+                <div class="w3-display-middle w3-center">
+                    <span>CERTIFICADOS</span> <br>
+                    <img src="assets/logo-solidworks.png" alt="">
+                </div>
+            </div>
         </div>
-        <div class="w3-row">
+        <div class="contenido">
+            <div style="max-width: 680px; margin:auto">
+                <h3 class="w3-center">CERTIFICACIONES SOLIDWORKS</h3>
+                Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a 
+                realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
+            </div>
+            <div class="w3-row">
+                <div class="w3-half mitadizq">
+                    <h2>Certificación CSWA</h2>
+                    Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
+                    problemas que las empresas necesitan hoy en día. <br>
+                    CSWA INCLUYE BÁSICO, INTERMEDIO Y AVANZADO TUTORIAL 3 HORAS Y DERECHO A EXAMEN (1 CÓDIGO INCLUIDO) <br>
+                    <b>Duración del examen:</b> 3 horas. <br>
+                    <b>Calificación mínima para aprobar:</b> 70% <br>
+                    <b>Política de reevaluación:</b> Hay un período mínimo de espera de 14 días entre cada intento 
+                    del examen CSWA. <br>
+                    <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                    <b>Objetivo de aprendizaje</b> <br>
+                    La Certificación CSWA, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y 
+                    planos de ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de 
+                    diseño 3D con SOLIDWORKS
+                </div>
+                <div class="w3-half mitadder">
+                    <img src="assets/rectangle.png" alt="" width="100%">
+                </div>
+            </div>
+            <div class="w3-row">
             <div class="w3-half mitadizq">
-                <h2>Certificación CSWA</h2>
-                Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
-                problemas que las empresas necesitan hoy en día. <br>
-                CSWA INCLUYE BÁSICO, INTERMEDIO Y AVANZADO TUTORIAL 3 HORAS Y DERECHO A EXAMEN (1 CÓDIGO INCLUIDO) <br>
-                <b>Duración del examen:</b> 3 horas. <br>
-                <b>Calificación mínima para aprobar:</b> 70% <br>
-                <b>Política de reevaluación:</b> Hay un período mínimo de espera de 14 días entre cada intento 
-                del examen CSWA. <br>
-                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
-                <b>Objetivo de aprendizaje</b> <br>
-                La Certificación CSWA, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y 
-                planos de ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de 
-                diseño 3D con SOLIDWORKS
-            </div>
-            <div class="w3-half mitadder">
-                <img src="assets/rectangle.png" alt="" width="100%">
-            </div>
-        </div>
-        <div class="w3-row">
-        <div class="w3-half mitadizq">
-                <h2>Certificación CSWA</h2>
-                Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
-                problemas que las empresas necesitan hoy en día. <br>
-                CSWA INCLUYE BÁSICO, INTERMEDIO Y AVANZADO TUTORIAL 3 HORAS Y DERECHO A EXAMEN (1 CÓDIGO INCLUIDO) <br>
-                <b>Duración del examen:</b> 3 horas. <br>
-                <b>Calificación mínima para aprobar:</b> 70% <br>
-                <b>Política de reevaluación:</b> Hay un período mínimo de espera de 14 días entre cada intento 
-                del examen CSWA. <br>
-                <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
-                <b>Objetivo de aprendizaje</b> <br>
-                La Certificación CSWA, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y 
-                planos de ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de 
-                diseño 3D con SOLIDWORKS
-            </div>
-            <div class="w3-half mitadder">
-                <img src="assets/rectangle.png" alt="" width="100%">
+                    <h2>Certificación CSWA</h2>
+                    Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
+                    problemas que las empresas necesitan hoy en día. <br>
+                    CSWA INCLUYE BÁSICO, INTERMEDIO Y AVANZADO TUTORIAL 3 HORAS Y DERECHO A EXAMEN (1 CÓDIGO INCLUIDO) <br>
+                    <b>Duración del examen:</b> 3 horas. <br>
+                    <b>Calificación mínima para aprobar:</b> 70% <br>
+                    <b>Política de reevaluación:</b> Hay un período mínimo de espera de 14 días entre cada intento 
+                    del examen CSWA. <br>
+                    <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
+                    <b>Objetivo de aprendizaje</b> <br>
+                    La Certificación CSWA, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y 
+                    planos de ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de 
+                    diseño 3D con SOLIDWORKS
+                </div>
+                <div class="w3-half mitadder">
+                    <img src="assets/rectangle.png" alt="" width="100%">
+                </div>
             </div>
         </div>
     </section>
