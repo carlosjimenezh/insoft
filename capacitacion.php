@@ -509,7 +509,14 @@
         </div>
     </section>
 
-    <section>
+    <section id=impresiones3d>
+        <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+            <div class="contenido" style="margin-top: 0;height:100%; position:relative">
+                <div class="w3-display-middle w3-center">
+                    <span>IMPRESIONES 3D</span> <br>
+                </div>
+            </div>
+        </div>
         <div class="w3-row contenido">
             <div class="w3-half mitadizq">
                 <h2>Impresiones 3D</h2>
