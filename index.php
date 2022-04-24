@@ -164,7 +164,7 @@
             <div class="w3-display-bottommiddle	">
                 <img src="assets/man.png" alt="">
             </div>
-            <div class="w3-display-right">
+            <div class="w3-display-right" style="right: 10px;">
                 <img src="assets/circle.svg" alt="" width="100px">
             </div>
         </div>
