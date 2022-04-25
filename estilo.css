@@ -403,6 +403,10 @@ footer .redes img {
 	-o-transform: translateX(50%);
 }
 
+#camworks-list {
+	margin-bottom: 200px
+}
+
 #camworks-list article:nth-child(even) {
 	background-color: #f3f3f3;
 }
