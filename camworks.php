@@ -42,7 +42,7 @@
     </section>
 
     <section>
-        <div style="max-width: 680px; margin:auto">
+        <div class="frase" style="max-width: 750px; text-align:center">
             <h3 class="w3-center">CMAWorks</h3>
             CAMWorks es intuitivo y basado en funciones que ayuda a aumentar la productividad utilizando las mejores 
             tecnologías de su clase y herramientas de automatización adaptables para maximizar la eficiencia del 

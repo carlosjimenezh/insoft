@@ -39,7 +39,7 @@
         </div>
     </div>
 
-    <section id="frase" class="contenido w3-center">
+    <section class="contenido w3-center frase">
         <h3>Si piensas en diseñar, piensa en SOLIDWORKS, si piensas innovar, piensa en INSOFT</h3>
         Soluciones de diseño en 3D intuitivas que le permiten centrarse en su producto y no en el 
         funcionamiento del software, para producir a mayor velocidad sus diseños.
