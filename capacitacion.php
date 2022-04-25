@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
 </head>
-<body>
+<body id="capacitacion">
     <?php 
         $sec=4;
         include('header.php'); 
@@ -510,10 +510,10 @@
     </section>
 
     <section id=impresiones3d>
-        <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+        <div class="banner-principal" style="height: 450px; background-image:url(assets/solidworks-insoft.jpeg)">
             <div class="contenido" style="margin-top: 0;height:100%; position:relative">
                 <div class="w3-display-middle w3-center">
-                    <span>IMPRESIONES 3D</span> <br>
+                    <span>IMPRESIONES&nbsp;3D</span> <br>
                 </div>
             </div>
         </div>
