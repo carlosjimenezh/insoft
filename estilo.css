@@ -426,6 +426,10 @@ footer .redes img {
 	margin-bottom: 50px;
 }
 
+#cursos .cflex {
+	align-items: center;
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
