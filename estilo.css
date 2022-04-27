@@ -268,7 +268,9 @@ footer .redes img {
 
 
 #paralax {
-	background-color: aliceblue; 
+	background-image: url(assets/parallax.jpg);
+	background-size: cover;
+	background-position: center;
 	font-size: 100px;
 	height:400px; 
 	position:relative

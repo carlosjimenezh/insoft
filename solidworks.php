@@ -50,7 +50,7 @@
         <div style="border: 1px solid black;">
             <div class="contenido w3-row">
                 <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
-                    <img src="assets/rectangle.png" alt="">
+                    <img src="assets/estandar.jpg" alt="">
                 </div>
                 <div class="w3-half mitadizq">
                     <h2>CAD MECÁNICO EN 3D</h2>
@@ -62,7 +62,7 @@
                     <a href="" class="btn">Más información</a>
                 </div>
                 <div class="w3-half mitadder w3-hide-small">
-                    <img src="assets/rectangle.png" alt="">
+                    <img src="assets/estandar.jpg" alt="">
                 </div>
                 <img src="assets/circle.svg" alt="" class="flotante">
             </div>
@@ -71,7 +71,7 @@
             <br class="w3-hide-small">
             <br class="w3-hide-small">
             <div class="w3-half mitadizq">
-                <img src="assets/rectangle.png" alt="">
+                <img src="assets/profesional.jpg" alt="">
             </div>
             <img src="assets/circle.svg" alt="" class="flotante">
             <div class="w3-half mitadder">
@@ -87,7 +87,7 @@
         <div style="border: 1px solid black;">
             <div class="contenido w3-row">
                 <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
-                    <img src="assets/rectangle.png" alt="">
+                    <img src="assets/premium.jpg" alt="">
                 </div>
                 <div class="w3-half mitadizq">
                         <h2>CAD MECÁNICO EN 3D</h2>
@@ -99,7 +99,7 @@
                         <a href="" class="btn">Más información</a>
                     </div>
                     <div class="w3-half mitadder w3-hide-small">
-                        <img src="assets/rectangle.png" alt="">
+                        <img src="assets/premium.jpg" alt="">
                     </div>
                     <img src="assets/circle.svg" alt="" class="flotante">
                 </div>

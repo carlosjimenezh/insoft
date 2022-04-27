@@ -13,7 +13,7 @@
     <section class="carrusel">
         <div class="swiper">
             <div class="swiper-wrapper">
-                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)">
+                <div class="swiper-slide" style="background-image:url(assets/principal.jpg)">
                     <div class="contenido" style="height:100%; position: relative">
                         <div class="w3-display-bottomleft txtblanco" style="bottom:100px;font-size:35px;line-height:1.1;
                         text-align:left">
@@ -51,7 +51,7 @@
         <div class="w3-row contenido w3-center linea-fondo">
             <div class="w3-third mitadizq linea-fondo-small">
                 <a href="">
-                    <div class="circular" style="background-image: url('assets/solidworks-insoft.jpeg');"></div>
+                    <div class="circular" style="background-image: url('assets/solidworks.jpg');"></div>
                 </a>
                 <h2>SOLIDWORKS</h2>
                 <strong>DISEÑA</strong> <br>
@@ -60,7 +60,7 @@
             </div>
             <div class="w3-third mitadcentro linea-fondo-small"> 
                 <a href="">
-                    <div class="circular" style="background-image: url('assets/camworks-insoft.jpeg');"></div>
+                    <div class="circular" style="background-image: url('assets/camworks.jpg');"></div>
                 </a>
                 <h2>CAMWorks</h2>
                 <strong>SIMULA</strong> <br>
@@ -69,7 +69,7 @@
             </div>
             <div class="w3-third mitadder linea-fondo-small">
                 <a href="">
-                    <div class="circular" style="background-image: url('assets/capacitacion-insoft.jpeg');"></div>
+                    <div class="circular" style="background-image: url('assets/capacitacion.jpg');"></div>
                 </a>
                 <h2>Capacitación</h2>
                 <strong>APRENDE</strong> <br>
@@ -98,7 +98,7 @@
             <div class="w3-row linea-fondo">
                 <div class="w3-third mitadizq linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/clases-virtuales.jpg);"></div>
                     </a>
                     <h2>CLASE VIRTUAL</h2>
                     Es el mejor Software CAD de diseño asistido por computadora para modelado mecánico
@@ -106,7 +106,7 @@
                 </div>
                 <div class="w3-third mitadcentro linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/fechas.jpg);"></div>
                     </a>
                     <h2>FECHAS</h2>
                     <b>HORARIO:</b> <br>
@@ -117,7 +117,7 @@
                 </div>
                 <div class="w3-third mitadder linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/temario.jpg);"></div>
                     </a>
                     <h2>TEMARIOS</h2>
                     Conoce los cursos de SOLIDWORKS que tenemos para ti junto con el plan de estudios, 
@@ -127,7 +127,7 @@
             <div class="w3-row linea-fondo">
                 <div class="w3-third mitadizq linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/cursos.jpg);"></div>
                     </a>
                     <h2>CURSOS</h2>
                     Contamos con una amplia variedad de cursos que te ayudarán a desempeñarte 
@@ -135,7 +135,7 @@
                 </div>
                 <div class="w3-third mitadcentro linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/diplomados.jpg);"></div>
                     </a>
                     <h2>DIPLOMADOS</h2>
                     Nuestros cursos y diplomados SOLIDWORKS tienen validez curricular lo cual 
@@ -143,7 +143,7 @@
                 </div>
                 <div class="w3-third mitadder linea-fondo-small">
                     <a href="">
-                        <div class="circular"></div>
+                        <div class="circular" style="background-image: url(assets/certificaciones.jpg)"></div>
                     </a>
                     <h2>CERTIFICIONES</h2>
                     Te permitirán diseñar, gestionar, analizar, competir y sobresalir, sobre los 

@@ -16,7 +16,7 @@
         <h2 class="contenido w3-hide-small">SOFTWARE <br> <strong>CAM PARA CNC</strong> </h2>
             <div class="contenido w3-row" style="position: relative;">
                 <div class="w3-half mitadder w3-hide-medium w3-hide-large">
-                    <img src="assets/rectangle.png" alt="" width="100%">
+                    <img src="assets/solidworks.jpg" alt="" width="100%">
                     <h2 class="w3-hide-medium w3-hide-large">SOFTWARE <br> <strong>CAM PARA CNC</strong> </h2>
                 </div>
                 <div class="w3-half mitadizq">
@@ -34,7 +34,7 @@
                     <a href="" class="btn">Más información</a>
                 </div>
                 <div class="w3-half mitadder w3-hide-small">
-                    <img src="assets/rectangle.png" alt="" width="100%">
+                    <img src="assets/solidworks.jpg" alt="" width="100%">
                 </div>
                 <img src="assets/circle.svg" alt="" class="flotante" width="100px" style="bottom: 10px;right: 10%">
             </div>

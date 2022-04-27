@@ -510,7 +510,7 @@
     </section>
 
     <section id=impresiones3d>
-        <div class="banner-principal" style="height: 450px; background-image:url(assets/solidworks-insoft.jpeg)">
+        <div class="banner-principal" style="height: 450px; background-image:url(assets/impresion-3d.jpg)">
             <div class="contenido" style="margin-top: 0;height:100%; position:relative">
                 <div class="w3-display-middle w3-center">
                     <span>IMPRESIONES&nbsp;3D</span> <br>
@@ -528,7 +528,7 @@
                 puede desplazarse en tres ejes controlada electrónicamente."
             </div>
             <div class="w3-half mitadder" style="position: relative;">
-                <img src="assets/rectangle.png" alt="" width="100%">
+                <img src="assets/impresion-3d.jpg" alt="" width="100%">
                 <img src="assets/circle.svg" alt="" width="100px" style="position: absolute; bottom:0; right:50px">
             </div>
         </div>
