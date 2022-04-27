@@ -507,7 +507,7 @@
                     diseño 3D con SOLIDWORKS
                 </div>
                 <div class="w3-half mitadder">
-                    <img src="assets/rectangle.png" alt="" width="100%">
+                    <img src="assets/cswa.jpg" alt="" width="100%">
                 </div>
             </div>
             <div class="w3-row">
@@ -527,7 +527,7 @@
                     diseño 3D con SOLIDWORKS
                 </div>
                 <div class="w3-half mitadder">
-                    <img src="assets/rectangle.png" alt="" width="100%">
+                    <img src="assets/cswp.jpg" alt="" width="100%">
                 </div>
             </div>
         </div>
