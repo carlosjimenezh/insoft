@@ -158,7 +158,7 @@
                 En el curso de SOLIDWORKS Básico aprenderá los conceptos básicos de SOLIDWORKS le enseña 
                 a utilizar el software de automatización de diseño mecánico SOLIDWORKS para construir modelos 
                 paramétricos de piezas y ensamblajes, así como a realizar dibujos de dichas piezas y ensamblajes.
-                <img src="assets/area-ventas.jpg" alt="" width="100%">
+                <img src="assets/area-ventas.jpg" alt="" width="100%" style="margin: 30px 0">
             </div>
             <div class="w3-half mitadder">
                 <div class="w3-row">
