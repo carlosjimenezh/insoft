@@ -485,7 +485,7 @@
             </div>
         </div>
         <div class="contenido">
-            <div style="max-width: 680px; margin:auto">
+            <div class="frase" style="max-width: 680px">
                 <h3 class="w3-center">CERTIFICACIONES SOLIDWORKS</h3>
                 Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a 
                 realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
