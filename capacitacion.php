@@ -162,7 +162,7 @@
             </div>
             <div class="w3-half mitadder">
                 <div class="w3-row">
-                    <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
+                    <form action="solidworks.php?a=2#scontacto" name="contacto" id="contacto" method="POST">
                         <input type="text" name="nombre" placeholder="Nombre completo">
                         <input type="tel" name="telefono" placeholder="Teléfono">
                         <input type="emal" name="email" placeholder="E-mail">
@@ -179,7 +179,13 @@
                         </div>
                     </form>
                     <div>
-                       <a onclick="verifica()" class="btn">Enviar</a>
+                       <a onclick="verifica()" class="btn" style="margin-top: 0;">Enviar</a>
+                    </div>
+                    <div style="margin-top: 15px;">
+                        Su información será tratada con confidencialidad lea nuestro <br>
+                        <a href="" onclick="privacidad()" style="text-decoration:underline">
+                            Aviso de privacidad
+                        </a>
                     </div>
                 </div>
             </div>
