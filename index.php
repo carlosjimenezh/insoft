@@ -86,7 +86,7 @@
         </div>
     </section>
 
-    <section id="capacitacion">
+    <section id="scapacitacion">
         <div class="w3-center contenido" style="max-width: 700px;">
             <h1>CAPACITACIÓN</h1>
             Contamos con cursos desde nivel básico y más de 15 especialidades que te 
