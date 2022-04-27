@@ -422,6 +422,10 @@ footer .redes img {
 	font-size: 10vw;
 }
 
+#cursos .w3-col {
+	margin-bottom: 50px;
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
