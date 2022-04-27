@@ -376,7 +376,7 @@ footer .redes img {
 	margin-bottom: 20px;
 }
 
-#ventas .w3-half input {
+#ventas .w3-half input, #ventas-capacitacion input {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;

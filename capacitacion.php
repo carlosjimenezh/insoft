@@ -149,7 +149,7 @@
         </div>
     </section>
 
-    <section>
+    <section id="ventas-capacitacion">
         <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <div class="w3-row contenido">
             <div class="w3-half mitadizq">
