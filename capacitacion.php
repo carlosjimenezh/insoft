@@ -179,7 +179,7 @@
                         </div>
                     </form>
                     <div>
-                       <a onclick="verifica()" class="btn flotante">Enviar</a>
+                       <a onclick="verifica()" class="btn">Enviar</a>
                     </div>
                 </div>
             </div>
