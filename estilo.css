@@ -452,6 +452,11 @@ footer .redes img {
 	margin-bottom: 50px;
 }
 
+#especialidades .contenido .w3-half {
+	display: flex;
+	align-items: center;
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
