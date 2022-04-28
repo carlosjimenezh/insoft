@@ -444,6 +444,10 @@ footer .redes img {
 	align-items: center;
 }
 
+#certificaciones .contenido .w3-row {
+	margin-bottom: 100px;
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
