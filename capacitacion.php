@@ -534,7 +534,7 @@
     </section>
 
     <section id=impresiones3d>
-        <div class="banner-principal" style="height: 450px; background-image:url(assets/impresion-3d.jpg)">
+        <div class="banner-principal" style="height: 450px; background-image:url(assets/impresion-3d.jpg); margin-bottom:100px">
             <div class="contenido" style="margin-top: 0;height:100%; position:relative">
                 <div class="w3-display-middle w3-center">
                     <span>IMPRESIONES&nbsp;3D</span> <br>
