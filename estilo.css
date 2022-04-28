@@ -448,6 +448,10 @@ footer .redes img {
 	margin-bottom: 100px;
 }
 
+#especialidades .w3-col {
+	margin-bottom: 50px;
+}
+
 
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
