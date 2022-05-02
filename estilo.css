@@ -368,15 +368,15 @@ footer .redes img {
 	margin: 50px 0
 }
 
-#ventas form {
+#ventas form, #camworks form {
 	max-width: 1000px;
 }
 
-#ventas form .w3-row {
+#ventas form .w3-row, #camworks form .w3-row {
 	margin-bottom: 20px;
 }
 
-#ventas .w3-half input, #ventas-capacitacion input {
+#ventas .w3-half input, #ventas-capacitacion input, #camworks input {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;
@@ -392,12 +392,13 @@ footer .redes img {
 	margin-bottom: 100px;
 }
 
-#ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'] {
+#ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'],
+#camworks input[type='label'], #camworks input[type='checkbox'] {
 	display: inline; 
 	width: auto;
 }
 
-#ventas .checkboxs {
+#ventas .checkboxs, #camworks .checkboxs {
 	max-width: 220px;
 	margin: auto;
 }
