@@ -253,8 +253,8 @@ footer .redes img {
 	margin: 30px 0 50px;
 }
 
-#capacitacion {
-	margin-bottom: 100px;
+#capacitacion b {
+	color: black;
 }
 
 .frase {
