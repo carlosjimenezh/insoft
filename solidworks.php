@@ -47,7 +47,7 @@
 
 
     <section id="rectangulos" class="contenido" style="max-width:1350px">
-        <div style="border: 1px solid black;">
+        <div style="border: 1px solid #6C6C6C;">
             <div class="contenido w3-row">
                 <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
                     <img src="assets/estandar.jpg" alt="">
@@ -84,7 +84,7 @@
                 <a href="" class="btn">Más información</a>
             </div>
         </div>
-        <div style="border: 1px solid black;">
+        <div style="border: 1px solid #6C6C6C;">
             <div class="contenido w3-row">
                 <div class="w3-half mitadizq w3-hide-medium w3-hide-large" style="margin-bottom: 21px;">
                     <img src="assets/premium.jpg" alt="">
