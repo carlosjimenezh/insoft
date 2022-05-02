@@ -542,7 +542,7 @@
                 </div>
             </div>
         </div>
-        <div class="w3-row contenido" style="margin-bottom: 200px;">
+        <div class="w3-row contenido" style="margin-bottom: 200px; position:relative">
             <div class="w3-half mitadizq">
                 <h2>Impresiones 3D</h2>
                 Permiten realizar réplicas, como piezas o maquetas de diseños en 3D creados 
@@ -552,7 +552,7 @@
                 Un filamento plástico (ABS), se coloca en una boquilla, la cual funde el material y 
                 puede desplazarse en tres ejes controlada electrónicamente."
             </div>
-            <div class="w3-half mitadder" style="position: relative;">
+            <div class="w3-half mitadder">
                 <img src="assets/impresion-3d.jpg" alt="" width="100%">
                 <img src="assets/circle.svg" alt="" width="100px" style="position: absolute; bottom:0; right:50px">
             </div>
