@@ -27,8 +27,8 @@
         realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
     </section>
 
-    <section id="cursos" class="contenido centrar-small" style="max-width: 900px">
-        <div class="w3-row">
+    <section id="cursos" class="centrar-small">
+        <div class="w3-row contenido" style="max-width: 900px">
             <div class="cflex">
                 <div class="w3-col m3 w3-center">
                     <img src="assets/circle.svg" alt="" width="100px">
