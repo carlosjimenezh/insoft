@@ -179,6 +179,14 @@
     </section>
 
     <section id="ventas-capacitacion">
+        <div class="banner-principal" style="height: 450px; background-image:url(assets/solidworks-insoft.jpeg)">
+            <div class="contenido" style="margin-top: 0;height:100%; position:relative">
+                <div class="w3-display-middle w3-center">
+                    <span>NOMBRE</span> <br>
+                    <img src="assets/logo-solidworks.png" alt="">
+                </div>
+            </div>
+        </div>
         <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
         <div class="w3-row contenido">
             <div class="w3-half mitadizq">
