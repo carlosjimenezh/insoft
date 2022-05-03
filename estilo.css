@@ -368,21 +368,33 @@ footer .redes img {
 	margin: 50px 0
 }
 
-#ventas form, #camworks form {
+#ventas form, #camworks form, #cursos form {
 	max-width: 1000px;
 }
 
-#ventas form .w3-row, #camworks form .w3-row {
+#ventas form .w3-row, #camworks form .w3-row, #cursos form .w3-row {
 	margin-bottom: 20px;
 }
 
-#ventas .w3-half input, #ventas-capacitacion input, #camworks input {
+#ventas .w3-half input, #ventas-capacitacion input, #camworks input,
+#cursos .w3-half input {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;
 	width: 100%
 }
 
+#ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'],
+#camworks input[type='label'], #camworks input[type='checkbox'], #cursos input[type='label'],
+#cursos input[type='checkbox'] {
+	display: inline; 
+	width: auto;
+}
+
+#ventas .checkboxs, #camworks .checkboxs, #cursos .checkboxs {
+	max-width: 220px;
+	margin: auto;
+}
 
 #ventas-capacitacion .checkboxs {
 	margin-top:30px;
@@ -392,16 +404,6 @@ footer .redes img {
 	margin-bottom: 100px;
 }
 
-#ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'],
-#camworks input[type='label'], #camworks input[type='checkbox'] {
-	display: inline; 
-	width: auto;
-}
-
-#ventas .checkboxs, #camworks .checkboxs {
-	max-width: 220px;
-	margin: auto;
-}
 
 .lnazul {
 	height: 2px;
