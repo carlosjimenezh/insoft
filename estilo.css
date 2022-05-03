@@ -368,16 +368,18 @@ footer .redes img {
 	margin: 50px 0
 }
 
-#ventas form, #camworks form, #cursos form {
+#ventas form, #camworks form, #cursos form, #especialidades form {
 	max-width: 1000px;
-}
+} 
 
-#ventas form .w3-row, #camworks form .w3-row, #cursos form .w3-row {
+
+#ventas form .w3-row, #camworks form .w3-row, #cursos form .w3-row,
+#especialidades form .w3-row {
 	margin-bottom: 20px;
 }
 
 #ventas .w3-half input, #ventas-capacitacion input, #camworks input,
-#cursos .w3-half input {
+#cursos .w3-half input, #especialidades input {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;
@@ -386,12 +388,12 @@ footer .redes img {
 
 #ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'],
 #camworks input[type='label'], #camworks input[type='checkbox'], #cursos input[type='label'],
-#cursos input[type='checkbox'] {
+#cursos input[type='checkbox'], #especialidades input[type='label'], #especialidades input[type='checkbox'] {
 	display: inline; 
 	width: auto;
 }
 
-#ventas .checkboxs, #camworks .checkboxs, #cursos .checkboxs {
+#ventas .checkboxs, #camworks .checkboxs, #cursos .checkboxs, #especialidades .checkboxs {
 	max-width: 220px;
 	margin: auto;
 }
@@ -459,7 +461,7 @@ footer .redes img {
 	margin-bottom: 50px;
 }
 
-#especialidades .contenido .w3-half {
+#especialidades .contenido .centrar-small .w3-half {
 	display: flex;
 	align-items: center;
 }
