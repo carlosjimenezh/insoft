@@ -426,9 +426,6 @@ footer .redes img {
 	-o-transform: translateX(50%);
 }
 
-#camworks-list {
-	margin-bottom: 200px
-}
 
 #camworks-list article:nth-child(even) {
 	background-color: #f3f3f3;
@@ -455,9 +452,6 @@ footer .redes img {
 	margin-bottom: 100px;
 }
 
-#especialidades main {
-	margin-bottom: 150px;
-}
 
 #especialidades .w3-col {
 	margin-bottom: 50px;
