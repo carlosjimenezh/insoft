@@ -189,7 +189,7 @@
                         </div>
                     </form>
                     <div>
-                       <a onclick="verifica()" class="btn" style="margin-top: 0;">Enviar</a>
+                       <a onclick="verifica()" class="btn">Enviar</a>
                     </div>
                     <div style="margin-top: 15px;">
                         Su información será tratada con confidencialidad lea nuestro <br>
