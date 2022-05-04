@@ -6,6 +6,7 @@
     <title>Capacitación</title>
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <script src="js/verificar-formulario.js"></script>
 </head>
 <body id="capacitacion">
     <?php 
@@ -147,35 +148,7 @@
                 </div>
             </div>
         </div>
-        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
-        <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
-            <div class="w3-row">
-                <div class="w3-half mitadizq">
-                    <input type="text" name="nombre" placeholder="Nombre completo">
-                    <input type="tel" name="telefono" placeholder="Teléfono">
-                    <input type="emal" name="email" placeholder="E-mail">
-                </div>
-                <div class="w3-half mitadder">
-                    <input type="text" name="ciudad" placeholder="Ciudad/País">
-                    <input type="text" name="empresa" placeholder="Empresa o particular">
-                    <input type="text" name="producto" placeholder="Diseño de producto">
-                </div>
-            </div>
-            <div class="checkboxs">
-                <input type="checkbox" name="capacitacion" id="chkcapacitacion">
-                &nbsp; &nbsp;
-                <label for="chkcapacitacion">CAPACITACIÓN</label> <br>
-                <input type="checkbox" name="licencias" id="chklicencias">
-                &nbsp; &nbsp;
-                <label for="chklicencias">IMPLEMENTAR LICENCIAS</label>
-            </div>
-        </form>
-        <div class="lnazul">
-            <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
-            height:10px; width:240px">
-                <a onclick="verifica()" class="btn flotante">Enviar</a>
-            </div>
-        </div>
+        <?php include('formulario.php');?>
     </section>
 
     <section id="ventas-capacitacion">
@@ -511,35 +484,7 @@
                 </div>
             </main>
         </div>
-        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
-        <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
-            <div class="w3-row">
-                <div class="w3-half mitadizq">
-                    <input type="text" name="nombre" placeholder="Nombre completo">
-                    <input type="tel" name="telefono" placeholder="Teléfono">
-                    <input type="emal" name="email" placeholder="E-mail">
-                </div>
-                <div class="w3-half mitadder">
-                    <input type="text" name="ciudad" placeholder="Ciudad/País">
-                    <input type="text" name="empresa" placeholder="Empresa o particular">
-                    <input type="text" name="producto" placeholder="Diseño de producto">
-                </div>
-            </div>
-            <div class="checkboxs">
-                <input type="checkbox" name="capacitacion" id="chkcapacitacion">
-                &nbsp; &nbsp;
-                <label for="chkcapacitacion">CAPACITACIÓN</label> <br>
-                <input type="checkbox" name="licencias" id="chklicencias">
-                &nbsp; &nbsp;
-                <label for="chklicencias">IMPLEMENTAR LICENCIAS</label>
-            </div>
-        </form>
-        <div class="lnazul">
-            <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
-            height:10px; width:240px">
-                <a onclick="verifica()" class="btn flotante">Enviar</a>
-            </div>
-        </div>
+        <?php include('formulario.php'); ?>
     </section>
     
     <section id="certificaciones">
@@ -598,35 +543,7 @@
                 </div>
             </div>
         </main>
-        <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
-        <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
-            <div class="w3-row">
-                <div class="w3-half mitadizq">
-                    <input type="text" name="nombre" placeholder="Nombre completo">
-                    <input type="tel" name="telefono" placeholder="Teléfono">
-                    <input type="emal" name="email" placeholder="E-mail">
-                </div>
-                <div class="w3-half mitadder">
-                    <input type="text" name="ciudad" placeholder="Ciudad/País">
-                    <input type="text" name="empresa" placeholder="Empresa o particular">
-                    <input type="text" name="producto" placeholder="Diseño de producto">
-                </div>
-            </div>
-            <div class="checkboxs">
-                <input type="checkbox" name="capacitacion" id="chkcapacitacion">
-                &nbsp; &nbsp;
-                <label for="chkcapacitacion">CAPACITACIÓN</label> <br>
-                <input type="checkbox" name="licencias" id="chklicencias">
-                &nbsp; &nbsp;
-                <label for="chklicencias">IMPLEMENTAR LICENCIAS</label>
-            </div>
-        </form>
-        <div class="lnazul">
-            <div class="flotante" style="background:white; right:50%; transform:translateX(50%);
-            height:10px; width:240px">
-                <a onclick="verifica()" class="btn flotante">Enviar</a>
-            </div>
-        </div>
+        <?php include('formulario.php'); ?>
     </section>
 
     <section id=impresiones3d>
