@@ -368,18 +368,18 @@ footer .redes img {
 	margin: 50px 0
 }
 
-#ventas form, #camworks form, #cursos form, #especialidades form {
+#ventas form, #camworks form, #cursos form, #especialidades form, #certificaciones form {
 	max-width: 1000px;
 } 
 
 
 #ventas form .w3-row, #camworks form .w3-row, #cursos form .w3-row,
-#especialidades form .w3-row {
+#especialidades form .w3-row, #certificaciones form .w3-row {
 	margin-bottom: 20px;
 }
 
 #ventas .w3-half input, #ventas-capacitacion input, #camworks input,
-#cursos .w3-half input, #especialidades input {
+#cursos .w3-half input, #especialidades input, #certificaciones input {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;
@@ -388,12 +388,14 @@ footer .redes img {
 
 #ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'],
 #camworks input[type='label'], #camworks input[type='checkbox'], #cursos input[type='label'],
-#cursos input[type='checkbox'], #especialidades input[type='label'], #especialidades input[type='checkbox'] {
+#cursos input[type='checkbox'], #especialidades input[type='label'], #especialidades input[type='checkbox'],
+#certificaciones input[type='checkbox'], #certificaciones input[type='label'] {
 	display: inline; 
 	width: auto;
 }
 
-#ventas .checkboxs, #camworks .checkboxs, #cursos .checkboxs, #especialidades .checkboxs {
+#ventas .checkboxs, #camworks .checkboxs, #cursos .checkboxs, #especialidades .checkboxs,
+#certificaciones .checkboxs {
 	max-width: 220px;
 	margin: auto;
 }
