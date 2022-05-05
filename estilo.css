@@ -76,7 +76,6 @@ hr{ border:#333 solid 1px;}
 
 .btn {
 	background-color: #2465b1;
-	border: none;
 	border-radius: 17px;
 	color: white;
 	cursor: pointer;
@@ -90,6 +89,18 @@ hr{ border:#333 solid 1px;}
 	-moz-border-radius: 17px;
 	-ms-border-radius: 17px;
 	-o-border-radius: 17px;
+	transition: 0.5s;
+	-webkit-transition:0.5s;
+	-moz-transition:0.5s;
+	-ms-transition:0.5s;
+	-o-transition:0.5s;
+}
+
+
+.btn:hover {
+	background-color: white;
+	color: #2465b1;
+	outline: 1px solid #2465b1;
 }
 
 
