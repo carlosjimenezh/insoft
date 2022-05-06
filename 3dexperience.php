@@ -23,6 +23,9 @@
             </tr>
             <tr>
                 <th>FUNCIONES CAD MECÁNICO</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 <td>
@@ -42,6 +45,9 @@
             </tr>
             <tr>
                 <th>FUNCIONES DE GESTIÓN DE DATOS</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 <td>
@@ -61,6 +67,9 @@
             </tr>
             <tr>
                 <th>FUNCIONES DE VALIDACION DE DATOS</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 <td>
@@ -80,6 +89,9 @@
             </tr>
             <tr>
                 <th>GESTIÓN DE DATOS</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 <td>
@@ -99,6 +111,9 @@
             </tr>
             <tr>
                 <th>VALIDACIÓN DE DISEÑOS</th>
+                <th></th>
+                <th></th>
+                <th></th>
             </tr>
             <tr>
                 <td>
