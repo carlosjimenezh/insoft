@@ -494,6 +494,8 @@ footer .redes img {
 	text-align: center
 }
 
+#matriz table td:last-child {border-right: none;}
+
 #matriz table thead td {border: none;}
 
 #matriz table td:first-child, #matriz table th{
