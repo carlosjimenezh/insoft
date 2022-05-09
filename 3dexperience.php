@@ -22,14 +22,17 @@
                         <h2>SOLIDWORKS</h2>
                         <h2><strong>STANDAR</strong></h2>
                     </td>
+                    <td class="espacio"></td>
                     <td>
                         <h2>SOLIDWORKS</h2>
                         <h2><strong>PROFESSIONAL</strong></h2>
                     </td>
+                    <td class="espacio"></td>
                     <td>
                         <h2>SOLIDWORKS</h2>
                         <h2><strong>PREMIUM</strong></h2>
                     </td>
+                    <td class="espacio"></td>
                 </tr>
             </thead>
             <tbody>
@@ -38,22 +41,31 @@
                     <th></th>
                     <th></th>
                     <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
                 <tr>
                     <td>
                         SWIFT
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
                 <tr>
                     <td>
                         Empezar a trabajar
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
             </tbody>
             <tbody>
@@ -62,22 +74,31 @@
                     <th></th>
                     <th></th>
                     <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
                 <tr>
                     <td>
                         Acceso Seguro
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
                 <tr>
                     <td>
                         Control de Revisiones
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
             </tbody>
             <tbody>
@@ -87,22 +108,31 @@
                     <th></th>
                     <th></th>
                     <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
                 <tr>
                     <td>
                         Validación de tolerancia al apilado
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
                 <tr>
                     <td>
                         Simulación de mecanismo completamente integrado
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
             </tbody>
             <tbody>
@@ -111,22 +141,31 @@
                     <th></th>
                     <th></th>
                     <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
                 <tr>
                     <td>
                         Acceso seguro
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
                 <tr>
                     <td>
                         Control de revisiones
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
             </tbody>
             <tbody>
@@ -135,22 +174,31 @@
                     <th></th>
                     <th></th>
                     <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
                 </tr>
                 <tr>
                     <td>
                         Validación de tolerancia al apilado
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
                 <tr>
                     <td>
                         Simulación de ensamblajes
                     </td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td class="able"> <strong>o</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
+                    <td class="disable"> <strong>x</strong> </td>
+                    <td class="espacio"></td>
                 </tr>
             </tbody>
             <tfoot>
@@ -159,12 +207,15 @@
                     <td> 
                         <a href="" class="btn">Más Información</a> 
                     </td>
+                    <td class="espacio"></td>
                     <td> 
                         <a href="" class="btn">Más Información</a> 
                     </td>
+                    <td class="espacio"></td>
                     <td> 
                         <a href="" class="btn">Más Información</a> 
                     </td>
+                    <td class="espacio"></td>
                 </tr>
             </tfoot>
         </table>
