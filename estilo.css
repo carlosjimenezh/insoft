@@ -486,15 +486,16 @@ footer .redes img {
 }
 
 #matriz table tr>* {
-	padding: 3px 10px;
+	padding: 3px;
 }
 
-#matriz table td {
+#matriz table td{
 	text-align: center;
 }
 
-#matriz table td:first-child{
+#matriz table td:first-child, #matriz table th{
 	text-align: start;
+	padding-left: 10px;
 }
 
 #matriz table tbody tr:nth-child(even) {
