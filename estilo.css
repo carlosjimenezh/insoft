@@ -476,6 +476,27 @@ footer .redes img {
 }
 
 
+#matriz table {
+	border-collapse: collapse;
+	width: 100%; 
+}
+
+#matriz table tr>* {
+	padding: 3px 10px;
+}
+
+#matriz table tbody tr:nth-child(even) {
+	background-color: #e6e7e8;
+}
+
+#matriz table .titulo {
+	background-color: #4babe1;   
+	color:white
+}  
+
+
+
+
 @media only screen and (min-width:601px){
 	.cflex{display: -webkit-flex; /* Safari */
 		display: flex;}
