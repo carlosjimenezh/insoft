@@ -498,6 +498,13 @@ footer .redes img {
 
 #matriz table thead td {border: none;}
 
+#matriz table tfoot td {border-bottom: 1px solid black}
+#matriz table tfoot td:first-child, #matriz table tfoot td:last-child {
+	border-bottom: none;
+}
+
+#matriz table tfoot .espacio {border-bottom: none;}
+
 #matriz table td:first-child, #matriz table th{
 	text-align: start;
 	padding-left: 10px;
