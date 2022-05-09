@@ -481,6 +481,10 @@ footer .redes img {
 	width: 100%; 
 }
 
+#matriz table h2 {
+	font-size: 18px;
+}
+
 #matriz table tr>* {
 	padding: 3px 10px;
 }
