@@ -14,123 +14,136 @@
     ?>
 
     <section id='matriz' class="contenido" style="margin-top: 150px;">
-        <table>
-            <tr>
-                <td></td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <th>FUNCIONES CAD MECÁNICO</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-            <tr>
-                <td>
-                    SWIFT
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <td>
-                    Empezar a trabajar
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <th>FUNCIONES DE GESTIÓN DE DATOS</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-            <tr>
-                <td>
-                    Acceso Seguro
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <td>
-                    Control de Revisiones
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <th>FUNCIONES DE VALIDACION DE DATOS</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-            <tr>
-                <td>
-                    Validación de tolerancia al apilado
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <td>
-                    Simulación de mecanismo completamente integrado
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <th>GESTIÓN DE DATOS</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-            <tr>
-                <td>
-                    Acceso seguro
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <td>
-                    Control de revisiones
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <th>VALIDACIÓN DE DISEÑOS</th>
-                <th></th>
-                <th></th>
-                <th></th>
-            </tr>
-            <tr>
-                <td>
-                    Validación de tolerancia al apilado
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
-            <tr>
-                <td>
-                    Simulación de ensamblajes
-                </td>
-                <td>prueba</td>
-                <td>prueba</td>
-                <td>prueba</td>
-            </tr>
+        <table> 
+            <thead>
+                <tr>
+                    <td></td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="titulo">
+                    <th>FUNCIONES CAD MECÁNICO</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        SWIFT
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+                <tr>
+                    <td>
+                        Empezar a trabajar
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr class="titulo">
+                    <th>FUNCIONES DE GESTIÓN DE DATOS</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        Acceso Seguro
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+                <tr>
+                    <td>
+                        Control de Revisiones
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </tbody>
+            <tbody>
+
+                <tr class="titulo">
+                    <th>FUNCIONES DE VALIDACION DE DATOS</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        Validación de tolerancia al apilado
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+                <tr>
+                    <td>
+                        Simulación de mecanismo completamente integrado
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr class="titulo">
+                    <th>GESTIÓN DE DATOS</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        Acceso seguro
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+                <tr>
+                    <td>
+                        Control de revisiones
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr class="titulo">
+                    <th>VALIDACIÓN DE DISEÑOS</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>
+                        Validación de tolerancia al apilado
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+                <tr>
+                    <td>
+                        Simulación de ensamblajes
+                    </td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                    <td>prueba</td>
+                </tr>
+            </tbody>
         </table>
     </section>
     
