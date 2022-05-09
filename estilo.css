@@ -489,6 +489,14 @@ footer .redes img {
 	padding: 3px 10px;
 }
 
+#matriz table td {
+	text-align: center;
+}
+
+#matriz table td:first-child{
+	text-align: start;
+}
+
 #matriz table tbody tr:nth-child(even) {
 	background-color: #e6e7e8;
 }
