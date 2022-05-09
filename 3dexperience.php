@@ -18,9 +18,18 @@
             <thead>
                 <tr>
                     <td></td>
-                    <td>prueba</td>
-                    <td>prueba</td>
-                    <td>prueba</td>
+                    <td>
+                        <h2>SOLIDWORKS</h2>
+                        <h2><strong>STANDAR</strong></h2>
+                    </td>
+                    <td>
+                        <h2>SOLIDWORKS</h2>
+                        <h2><strong>PROFESSIONAL</strong></h2>
+                    </td>
+                    <td>
+                        <h2>SOLIDWORKS</h2>
+                        <h2><strong>PREMIUM</strong></h2>
+                    </td>
                 </tr>
             </thead>
             <tbody>
