@@ -153,6 +153,20 @@
                     <td>prueba</td>
                 </tr>
             </tbody>
+            <tfoot>
+                <tr>
+                    <td></td>
+                    <td> 
+                        <a href="" class="btn">Más Información</a> 
+                    </td>
+                    <td> 
+                        <a href="" class="btn">Más Información</a> 
+                    </td>
+                    <td> 
+                        <a href="" class="btn">Más Información</a> 
+                    </td>
+                </tr>
+            </tfoot>
         </table>
     </section>
     
