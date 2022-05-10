@@ -491,7 +491,7 @@ footer .redes img {
 }
 
 #matriz table td{
-	border-right: 1px solid black;
+	border-right: 1px solid #a7a9ac;
 	text-align: center
 }
 
@@ -499,7 +499,7 @@ footer .redes img {
 
 #matriz table thead td {border: none;}
 
-#matriz table tfoot td {border-bottom: 1px solid black}
+#matriz table tfoot td {border-bottom: 1px solid #a7a9ac}
 #matriz table tfoot td:first-child, #matriz table tfoot td:last-child {
 	border-bottom: none;
 }
