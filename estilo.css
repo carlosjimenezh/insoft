@@ -478,6 +478,7 @@ footer .redes img {
 
 #matriz table {
 	border-collapse: collapse;
+	margin-bottom: 100px;
 	width: 100%; 
 }
 
