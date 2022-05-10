@@ -59,7 +59,7 @@
 	    }
 	    else{?>
         <h3 class="contenido w3-center">Contacta con el área de ventas</h3>
-        <form action="solidworks.php?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
+        <form action="<?php $dir;?>?a=2#scontacto" class="contenido" name="contacto" id="contacto" method="POST">
             <div class="w3-row">
                 <div class="w3-half mitadizq">
                     <input type="text" name="nombre" placeholder="Nombre completo">
