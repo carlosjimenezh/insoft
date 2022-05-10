@@ -505,6 +505,7 @@ footer .redes img {
 }
 
 #matriz table tfoot .espacio {border-bottom: none;}
+#matriz table tfoot .btn {bottom: -20px; position: relative;}
 
 #matriz table td:first-child, #matriz table th{
 	text-align: start;
