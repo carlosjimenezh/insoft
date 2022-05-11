@@ -421,6 +421,11 @@ footer .redes img {
 	margin-top: 15px;
 }
 
+#ventas-capacitacion .mitadder .w3-row {
+	margin: auto;
+	max-width: 500px
+}
+
 
 .lnazul {
 	height: 2px;
