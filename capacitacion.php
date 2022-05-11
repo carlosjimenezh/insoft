@@ -503,7 +503,7 @@
                 Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a 
                 realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
             </div>
-            <div class="w3-row" style="margin-bottom: 70px;">
+            <div class="w3-row" style="margin-bottom: 100px;">
                 <div class="w3-half mitadizq">
                     <h2>Certificación CSWA</h2>
                     Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
