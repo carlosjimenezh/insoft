@@ -311,7 +311,7 @@ footer .redes img {
 	margin-top: 70px;
 }
 
-#paquetes strong {
+#paquetes strong, #rectangulos strong {
 	font-style: italic;
 }
 
