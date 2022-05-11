@@ -16,7 +16,7 @@
     <?php include('header.php'); ?>
 
     <section id="cam" class="contenido">
-        <div>
+        <div style="border: 1px solid #6C6C6C;">
         <h2 class="contenido w3-hide-small">SOFTWARE <br> <strong>CAM PARA CNC</strong> </h2>
             <div class="contenido w3-row" style="position: relative;">
                 <div class="w3-half mitadder w3-hide-medium w3-hide-large">
@@ -34,7 +34,7 @@
                     Utilice el árbol de mecanizado y los comandos de CAMWorks con solo hacer clic en un 
                     botón junto con SOLIDWORKS además de generar trayectorias de herramientas sin abandonar 
                     el entorno familiar de SOLIDWORKS. <br> <br>
-                    Use y administre solo un archivo para los sistemas CAD y CAM." <br>
+                    Use y administre solo un archivo para los sistemas CAD y CAM." <br> <br> <br>
                     <a href="" class="btn">Más información</a>
                 </div>
                 <div class="w3-half mitadder w3-hide-small">

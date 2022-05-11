@@ -480,9 +480,6 @@ footer .redes img {
 	max-width: 1350px
 }
 
-#camworks #cam div:first-child {
-	border: 1px solid #6C6C6C;
-}
 
 @media only screen and (min-width: 601px) {
 	#camworks #cam div:first-child {
