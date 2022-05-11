@@ -15,7 +15,7 @@
     ?>
     <?php include('header.php'); ?>
 
-    <section class="contenido" style="max-width: 1350px">
+    <section id="cam" class="contenido">
         <div style="border: 1px solid #6C6C6C;margin-top:200px">
         <h2 class="contenido w3-hide-small">SOFTWARE <br> <strong>CAM PARA CNC</strong> </h2>
             <div class="contenido w3-row" style="position: relative;">
