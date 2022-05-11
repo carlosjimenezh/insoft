@@ -9,7 +9,10 @@
     <script src="js/verificar-formulario.js"></script>
 </head>
 <body id="camworks">
-    <?php $sec=3; ?>
+    <?php 
+        $sec=3; 
+        $dir='camworks.php';
+    ?>
     <?php include('header.php'); ?>
 
     <section class="contenido" style="max-width: 1350px">

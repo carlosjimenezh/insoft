@@ -11,6 +11,7 @@
 <body id="capacitacion">
     <?php 
         $sec=4;
+        $dir='capacitacion.php';
         include('header.php'); 
     ?>
     <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">

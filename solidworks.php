@@ -9,7 +9,10 @@
     <script src="js/verificar-formulario.js"></script>
 </head>
 <body>
-    <?php $sec=2; ?>
+    <?php 
+        $sec=2; 
+        $dir='solidworks.php';
+    ?>
     <?php include("header.php"); ?>
     <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
         <div class="w3-display-middle w3-center" style="font-size: 35px;">
