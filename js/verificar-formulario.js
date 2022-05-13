@@ -1,16 +1,18 @@
-function verifica()
+function verifica(idContacto)
         {
-            if(document.contacto.nombre.value.trim()==""  || document.contacto.email.value.trim()=="" || document.contacto.producto.value.trim()=="")
+            if(document.getElementById(idContacto).nombre.value.trim()==""  
+            || document.getElementById(idContacto).email.value.trim()=="" 
+            || document.getElementById(idContacto).producto.value.trim()=="")
             {
                 alert("Es necesario escribir tu nombre, e-mail y el diseño de producto");     
             }
             else
             {
-                var s = document.contacto.email.value;
+                var s = document.getElementById(idContacto).email.value;
                 var filter=/^[A-Za-z][A-Za-z0-9_.ñÑ-]*@[A-Za-z0-9_ñÑ-]+\.[A-Za-z0-9_.ñÑ-]+[A-za-z]$/;
                 if(filter.test(s))
                 {            
-                    document.contacto.submit();
+                    document.getElementById(idContacto).submit();
                 }
                 else
                 {
