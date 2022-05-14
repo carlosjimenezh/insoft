@@ -65,13 +65,13 @@
             <div class="w3-dropdown-hover ocultar-menu">
                 <a href="capacitacion.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==4){ echo "activo";}?>">CAPACITACIÓN</a>
                 <div class="w3-dropdown-content">
-                    <a href="" class="w3-bar-item">
+                    <a href="cursos.php" class="w3-bar-item">
                         Cursos 
                     </a>
-                    <a href="" class="w3-bar-item">
+                    <a href="especialidades.php" class="w3-bar-item">
                         Diplomados
                     </a>
-                    <a href="" class="w3-bar-item">
+                    <a href="certificados.php" class="w3-bar-item">
                         Certificaciones
                     </a>
                 </div>
