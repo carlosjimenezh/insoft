@@ -36,7 +36,7 @@
             </div>
             <div class="w3-half mitadder">
                 <div class="w3-row">
-                <a name="scontacto-ventas-capacitacion"></a>
+                <a name="scontacto"></a>
                     <?php
                     if(isset($_GET['a']) && $_GET['a']==2 && isset($_POST['email']) && isset($_POST['nombre']) 
                     && isset($_POST['producto']) && trim($_POST['email'])!="" && trim($_POST['nombre'])!="" 
@@ -95,7 +95,7 @@
                             echo "<br><br><div class=\"aviso\">E-mail no válido.</div><br><br><br>";
                     }
                     else{?>
-                    <form action="<?php $dir; ?>?a=2#scontacto-ventas-capacitacion" name="contacto-ventas-capacitacion" id="contacto-ventas-capacitacion" method="POST">
+                    <form action="<?php $dir; ?>?a=2#scontacto" name="contacto" id="contacto" method="POST">
                         <input type="text" name="nombre" placeholder="Nombre completo">
                         <input type="tel" name="telefono" placeholder="Teléfono">
                         <input type="emal" name="email" placeholder="E-mail">
@@ -112,7 +112,7 @@
                         </div>
                     </form>
                     <div>
-                       <a onclick="verifica('contacto-ventas-capacitacion')" class="btn">Enviar</a>
+                       <a onclick="verifica()" class="btn">Enviar</a>
                     </div>
                     <div style="margin-top: 15px;">
                         Su información será tratada con confidencialidad lea nuestro <br>
