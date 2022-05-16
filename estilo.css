@@ -18,7 +18,7 @@ h2 {font-size: 30px; color: #2465b1; margin: 0;}
 h3 {font-size: 35px; color: black;}
 .w3-button:hover{background-color:#E9953F!important; color:#fff!important; }
 .w3-button{transition-duration:0.5s}
-.aviso{ font-weight:bold; text-align:center; margin:auto}
+.aviso{ font-weight:bold; text-align:center; margin:auto; font-size: 20px;}
 .w3-dropdown-hover {position: relative!important;}
 .w3-dropdown-content {
 	margin-top: 55px; 
@@ -634,6 +634,9 @@ footer .redes img {
 	}
 	.banner-principal span {
 		font-size: 20px;
+	}
+	.aviso {
+		font-size: 18px;
 	}
 }
 .imgmax{
