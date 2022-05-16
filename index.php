@@ -16,7 +16,7 @@
                 <div class="swiper-slide" style="background-image:url(assets/principal.jpg)">
                     <div class="contenido" style="height:100%; position: relative">
                         <div class="w3-display-bottomleft txtblanco" style="bottom:100px;font-size:35px;line-height:1.1;
-                        text-align:left">
+                        text-align:left; padding: 0 10px">
                             <span style="font-size:70px"><b>CNC</b></span> <br>
                             <span style="font-size:45px"><b>Fresa / Torno</b></span> <br>
                             Realiza prácticas a pie de máquina
