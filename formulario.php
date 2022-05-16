@@ -47,7 +47,7 @@
 				$ok = @mail($email_to, $email_subject, $email_message, $headers); 
 				if($ok)
 					echo "<br><br><div class=\"aviso txtazul\">Gracias por escribirnos,<br>
-                    nos pondremos en contacto $seccion lo antes posible.</div><br><br><br>";
+                    nos pondremos en contacto lo antes posible.</div><br><br><br>";
 				else
 					echo "<br><br><div class=\"aviso txtazul\">Hubo un error al enviar su mensaje, 
                     inténtelo de nuevo o escríbanos a <span style=\"font-family:arial, 

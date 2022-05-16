@@ -11,6 +11,7 @@
 <body id="capacitacion">
     <?php 
         $sec=4;
+        $seccion='CAPACITACION';
         $dir='capacitacion.php';
         include('header.php'); 
     ?>
@@ -46,7 +47,7 @@
                             $nombre=strip_tags($_POST['nombre']);
                             $from = $_POST['email'];
                             $email_from = $from;
-                            $email_txt = "Este es un correo enviado desde el formulario web de SOLIDWORKS<br><br>
+                            $email_txt = "Este es un correo enviado desde el formulario de la sección $seccion<br><br>
                             &middot; Nombre: ".$nombre."<br>
                             &middot; E-mail: ".$_POST['email']."<br>
                             &middot; Empresa: ".strip_tags($_POST['empresa'])."<br>

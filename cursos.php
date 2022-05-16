@@ -11,6 +11,7 @@
 <body id="capacitacion">
     <?php 
         $sec=4;
+        $seccion='CURSOS';
         $dir='cursos.php';
         include('header.php'); 
     ?>

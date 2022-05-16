@@ -11,6 +11,7 @@
 <body id="capacitacion">
     <?php 
         $sec=4;
+        $seccion='CERTIFICADOS';
         $dir='certificados.php';
         include('header.php'); 
     ?>
