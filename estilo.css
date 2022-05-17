@@ -217,6 +217,7 @@ header nav img {
 	background-size: cover;
 	height: 10px;
 	filter: invert(1);
+	margin-right: 8px;
 	width: 15px;
 	-webkit-filter: invert(1);
 }
