@@ -107,12 +107,30 @@
 
         <!-- collapsing menu -->
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
-            <a href="nosotros.php" class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
-            <a href="solidworks.php" class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">SOLIDWORKS</a>
-            <a href="camworks.php" class="w3-bar-item <?php if(isset($sec) && $sec==3){ echo "activo";}?>">CAMWORKS</a>
-            <a href="capacitacion.php" class="w3-bar-item <?php if(isset($sec) && $sec==4){ echo "activo";}?>">CAPACITACIÓN</a>
-            <a href="3dexperience.php" class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">3D EXPERIENCE</a>
-            <a href="contacto.php" class="w3-bar-item <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>    
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">
+                <a href="nosotros.php">NOSOTROS</a>
+                <a href="">X</a>
+            </div>
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">
+                <a href="solidworks.php">SOLIDWORKS</a>
+                <a href="">X</a>
+            </div>
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==3){ echo "activo";}?>">
+                <a href="camworks.php">CAMWORKS</a>
+                <a href="">X</a>
+            </div>
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==4){ echo "activo";}?>">
+                <a href="capacitacion.php">CAPACITACIÓN</a>
+                <a href="">X</a>
+            </div>
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">
+                <a href="3dexperience.php">3D EXPERIENCE</a>
+                <a href="">X</a>
+            </div>
+            <div class="w3-bar-item <?php if(isset($sec) && $sec==6){ echo "activo";}?>">
+                <a href="contacto.php">CONTACTO</a>    
+                <a href="">X</a>
+            </div>
         </div>
         <script>
             function mostrarMenu() {
