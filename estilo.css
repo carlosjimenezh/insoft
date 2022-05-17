@@ -211,6 +211,16 @@ header nav img {
 	margin-bottom: 20px;
 }
 
+.flecha {
+	background-image: url('assets/abrir.svg');
+	background-position: center;
+	background-size: cover;
+	height: 10px;
+	filter: invert(1);
+	width: 15px;
+	-webkit-filter: invert(1);
+}
+
 footer {
 	font-size: 20px;
 	padding: 50px 0
