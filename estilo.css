@@ -201,10 +201,13 @@ header nav img {
 	font-style: normal;
 }
 
-#collapsing-menu a {
-	margin-bottom: 10px;
+#collapsing-menu div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px
 }
-#collapsing-menu a:last-child {
+#collapsing-menu div:last-child {
 	margin-bottom: 20px;
 }
 
