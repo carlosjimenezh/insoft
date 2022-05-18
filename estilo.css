@@ -215,6 +215,7 @@ header nav img {
 .hide a {
 	display: block;
 }
+.show {display: block;}
 
 .flecha {
 	background-image: url('assets/abrir.svg');
