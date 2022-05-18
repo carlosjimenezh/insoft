@@ -201,7 +201,7 @@ header nav img {
 	font-style: normal;
 }
 
-#collapsing-menu div {
+#collapsing-menu .w3-bar-item {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
