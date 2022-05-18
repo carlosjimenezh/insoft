@@ -111,21 +111,49 @@
                 <a href="nosotros.php">NOSOTROS</a>
                 <a href="" class="flecha"></a>
             </div>
+            <div>
+                <a href="">Instalaciones</a>
+                <a href="">Misión y visión</a>
+            </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">
                 <a href="solidworks.php">SOLIDWORKS</a>
                 <a href="" class="flecha"></a>
+            </div>
+            <div>
+                <a href="">Soluciones CAD 3D</a>
+                <a href="">Solidworks Simulacion</a>
+                <a href="">Solidworks SimulacionFflow</a>
+                <a href="">Solidworks Plastics</a>
+                <a href="">Electrico</a>
+                <a href="">Gestion de datos</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==3){ echo "activo";}?>">
                 <a href="camworks.php">CAMWORKS</a>
                 <a href="" class="flecha"></a>
             </div>
+            <div>
+                <a href="">Solidworks CAM</a>
+                <a href="">Camworks</a>
+            </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==4){ echo "activo";}?>">
                 <a href="capacitacion.php">CAPACITACIÓN</a>
                 <a href="" class="flecha"></a>
             </div>
+            <div>
+                <a href="">Cursos</a>
+                <a href="">Diplomados</a>
+                <a href="">Certificaciones</a>
+            </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">
                 <a href="3dexperience.php">3D EXPERIENCE</a>
                 <a href="" class="flecha"></a>
+            </div>
+            <div>
+                <a href="">3D Experience Solidworks</a>
+                <a href="">3D Creator</a>
+                <a href="">3D Sculptor</a>
+                <a href="">Collaborative Business Innovator</a>
+                <a href="">Collaborative Industry Innovator</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==6){ echo "activo";}?>">
                 <a href="contacto.php">CONTACTO</a>    
