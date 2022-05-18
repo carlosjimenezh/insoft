@@ -109,17 +109,17 @@
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
             <div class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">
                 <a href="nosotros.php">NOSOTROS</a>
-                <a href="" class="flecha"></a>
+                <a class="flecha" onclick="show('menu-nosotros')"></a>
             </div>
-            <div class="hide">
+            <div class="hide" id=menu-nosotros>
                 <a href="">Instalaciones</a>
                 <a href="">Misión y visión</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">
                 <a href="solidworks.php">SOLIDWORKS</a>
-                <a href="" class="flecha"></a>
+                <a class="flecha" onclick="show('menu-solidworks')"></a>
             </div>
-            <div class="hide">
+            <div class="hide" id="menu-solidworks">
                 <a href="">Soluciones CAD 3D</a>
                 <a href="">Solidworks Simulacion</a>
                 <a href="">Solidworks SimulacionFflow</a>
@@ -129,26 +129,26 @@
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==3){ echo "activo";}?>">
                 <a href="camworks.php">CAMWORKS</a>
-                <a href="" class="flecha"></a>
+                <a class="flecha" onclick="show('menu-camworks')"></a>
             </div>
-            <div class="hide">
+            <div class="hide" id="menu-camworks">
                 <a href="">Solidworks CAM</a>
                 <a href="">Camworks</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==4){ echo "activo";}?>">
                 <a href="capacitacion.php">CAPACITACIÓN</a>
-                <a href="" class="flecha"></a>
+                <a class="flecha" onclick="show('menu-capacitacion')"></a>
             </div>
-            <div class="hide">
+            <div class="hide" id="menu-capacitacion">
                 <a href="">Cursos</a>
                 <a href="">Diplomados</a>
                 <a href="">Certificaciones</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">
                 <a href="3dexperience.php">3D EXPERIENCE</a>
-                <a href="" class="flecha"></a>
+                <a class="flecha" onclick="show('menu-3dexperience')"></a>
             </div>
-            <div class="hide">
+            <div class="hide" id="menu-3dexperience">
                 <a href="">3D Experience Solidworks</a>
                 <a href="">3D Creator</a>
                 <a href="">3D Sculptor</a>
@@ -167,6 +167,15 @@
                     x.className += " w3-show";
                 } else { 
                     x.className = x.className.replace(" w3-show", "");
+                }
+            }
+
+            function show (menu) {
+                x = document.getElementById(menu);
+                if (x.className.indexOf('show') == -1) {
+                    x.className += ' show';
+                } else {
+                    x.className = x.className.replace(' show', '');
                 }
             }
         </script>
