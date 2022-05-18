@@ -111,7 +111,7 @@
                 <a href="nosotros.php">NOSOTROS</a>
                 <a href="" class="flecha"></a>
             </div>
-            <div>
+            <div class="hide">
                 <a href="">Instalaciones</a>
                 <a href="">Misión y visión</a>
             </div>
@@ -119,7 +119,7 @@
                 <a href="solidworks.php">SOLIDWORKS</a>
                 <a href="" class="flecha"></a>
             </div>
-            <div>
+            <div class="hide">
                 <a href="">Soluciones CAD 3D</a>
                 <a href="">Solidworks Simulacion</a>
                 <a href="">Solidworks SimulacionFflow</a>
@@ -131,7 +131,7 @@
                 <a href="camworks.php">CAMWORKS</a>
                 <a href="" class="flecha"></a>
             </div>
-            <div>
+            <div class="hide">
                 <a href="">Solidworks CAM</a>
                 <a href="">Camworks</a>
             </div>
@@ -139,7 +139,7 @@
                 <a href="capacitacion.php">CAPACITACIÓN</a>
                 <a href="" class="flecha"></a>
             </div>
-            <div>
+            <div class="hide">
                 <a href="">Cursos</a>
                 <a href="">Diplomados</a>
                 <a href="">Certificaciones</a>
@@ -148,7 +148,7 @@
                 <a href="3dexperience.php">3D EXPERIENCE</a>
                 <a href="" class="flecha"></a>
             </div>
-            <div>
+            <div class="hide">
                 <a href="">3D Experience Solidworks</a>
                 <a href="">3D Creator</a>
                 <a href="">3D Sculptor</a>

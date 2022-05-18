@@ -211,6 +211,11 @@ header nav img {
 	margin-bottom: 20px;
 }
 
+.hide {display: none;}
+.hide a {
+	display: block;
+}
+
 .flecha {
 	background-image: url('assets/abrir.svg');
 	background-position: center;
