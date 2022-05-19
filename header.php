@@ -157,7 +157,6 @@
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==6){ echo "activo";}?>">
                 <a href="contacto.php">CONTACTO</a>    
-                <a href="" class="flecha"></a>
             </div>
         </div>
         <script>
