@@ -204,6 +204,7 @@ header nav img {
 #collapsing-menu .w3-bar-item {
 	display: flex;
 	justify-content: space-between;
+	font-weight: bold;
 	align-items: center;
 	margin-bottom: 10px
 }
