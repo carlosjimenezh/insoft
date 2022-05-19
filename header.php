@@ -140,9 +140,9 @@
                 <a class="flecha" onclick="show('menu-capacitacion')"></a>
             </div>
             <div class="hide" id="menu-capacitacion">
-                <a href="">Cursos</a>
-                <a href="">Diplomados</a>
-                <a href="">Certificaciones</a>
+                <a href="cursos.php">Cursos</a>
+                <a href="especialidades.php">Diplomados</a>
+                <a href="certificados.php">Certificaciones</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">
                 <a href="3dexperience.php">3D EXPERIENCE</a>
