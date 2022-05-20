@@ -46,6 +46,10 @@ hr{ border:#333 solid 1px;}
 	margin-bottom: -2px;
 }
 
+.activo-small {
+	color: white;
+}
+
 .escribenos {
 	background-color: white;
 	bottom: 30px;
