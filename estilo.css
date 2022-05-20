@@ -211,6 +211,11 @@ header nav img {
 	align-items: center;
 	margin-bottom: 10px
 }
+
+#collapsing-menu .w3-bar-item a:first-of-type {
+	width: 100%;
+}
+
 #collapsing-menu div:last-child {
 	margin-bottom: 20px;
 }
