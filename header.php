@@ -109,7 +109,7 @@
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
             <div class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">
                 <a href="nosotros.php">NOSOTROS</a>
-                <a class="flecha" onclick="show('menu-nosotros')"></a>
+                <a class="flecha" id="flecha-nosotros" onclick="show('menu-nosotros')"></a>
             </div>
             <div class="hide" id=menu-nosotros>
                 <a href="">Instalaciones</a>
@@ -140,9 +140,9 @@
                 <a class="flecha" onclick="show('menu-capacitacion')"></a>
             </div>
             <div class="hide" id="menu-capacitacion">
-                <a href="cursos.php">Cursos</a>
-                <a href="especialidades.php">Diplomados</a>
-                <a href="certificados.php">Certificaciones</a>
+                <a href="cursos.php" class="<?php if(isset($seccion) && $seccion=='CURSOS'){ echo "activo-small";}?>">Cursos</a>
+                <a href="especialidades.php" class="<?php if(isset($seccion) && $seccion=='ESPECIALIDADES'){ echo "activo-small";}?>">Diplomados</a>
+                <a href="certificados.php" class="<?php if(isset($seccion) && $seccion=='CERTIFICADOS'){ echo "activo-small";}?>">Certificaciones</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==5){ echo "activo";}?>">
                 <a href="3dexperience.php">3D EXPERIENCE</a>
