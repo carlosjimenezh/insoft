@@ -218,6 +218,7 @@ header nav img {
 #collapsing-menu .hide {
 	padding-left: 15px;
 	margin: -4px 0 10px;
+	color: #b9b8b7;
 }
 
 .hide {display: none;}
