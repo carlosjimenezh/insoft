@@ -23,10 +23,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
-                <div class="swiper-slide" style="background-image:url(assets/solidworks-insoft.jpeg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/principal2.jpg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/principal3.jpg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/principal4.jpg)"></div>
+                <div class="swiper-slide" style="background-image:url(assets/principal5.jpg)"></div>
             </div>
             <!-- Add Pagination -->
             <div style="width: max-content; padding:0 20px; background:red; position:relative;
