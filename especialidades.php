@@ -30,270 +30,292 @@
                 Contamos con cursos desde nivel básico y más de 15 especialidades que te ayudarán a realizar tu 
                 trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual."
             </div>
-            <main class="w3-row centrar-small">
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+            <main class="centrar-small">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Chapa Métalica</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Chapa Métalica</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>PDM Usuario</h2>
-                        Duración: 10 Horas <br>
-                        Modalidades: Virtual o Presencial <br>
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Creating Animation</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>PDM Usuario</h2>
+                            Duración: 10 Horas <br>
+                            Modalidades: Virtual o Presencial <br>
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Creating Animation</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Photoview 360°</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Dibujo Avanzado</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Piezas Soldadas</h2>
-                        Duración: 10 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Photoview 360°</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Dibujo Avanzado</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Diseño de moldes</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Plastics</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Electrical 2D</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Piezas Soldadas</h2>
+                            Duración: 10 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Diseño de moldes</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Routing Electrico</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Electrical 3D</h2>
-                        Duración: 10 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Routing Tuberías</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Plastics</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Electrical 2D</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Ensamblaje Avanzado</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM <br>
-                        Sabatino: 9 AM a 2 PM (Presencial)"
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Simulation Estático</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Flow Simulation</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Routing Electrico</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Electrical 3D</h2>
+                            Duración: 10 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Simulación Profesional</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Motion Analysis</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Simulación No Lineal</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Routing Tuberías</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Ensamblaje Avanzado</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM <br>
+                            Sabatino: 9 AM a 2 PM (Presencial)"
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>PDM Standard</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Simulación Dinámica</h2>
-                        Duración: 15 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
-                    </div>
-                </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
-                    </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>PDM Profesional</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Simulation Estático</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
-                <div class="w3-half">
-                    <div class="w3-col s3 mitadizq">
-                        <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                <div class="w3-row">
+                     <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Flow Simulation</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
-                    <div class="w3-col s9 mitadder">
-                        <h2>Superficies</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
-                        Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Simulación Profesional</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Motion Analysis</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Simulación No Lineal</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>PDM Standard</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Simulación Dinámica</h2>
+                            Duración: 15 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                </div>
+                <div class="w3-row">
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>PDM Profesional</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
+                    </div>
+                    <div class="w3-half">
+                        <div class="w3-col s3 mitadizq">
+                            <img class="imgmax" src="assets/circle.svg" alt="" width="100px">
+                        </div>
+                        <div class="w3-col s9 mitadder">
+                            <h2>Superficies</h2>
+                            Duración: 20 Horas <br> 
+                            Modalidades: Virtual o Presencial <br> 
+                            Guadalajara | México <br>
+                            Lunes a Viernes: 9 AM a 7 PM
+                        </div>
                     </div>
                 </div>
             </main>
