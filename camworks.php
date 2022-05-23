@@ -63,7 +63,7 @@
                     El fresado en 2,5 ejes incluye ciclos automáticos de desbaste, acabado, fresado de roscas, 
                     fresado de caras y ciclos fijos. Incluye desbastes automáticos, acabados, maquinado de hilos, 
                     maquinado de caras y puntos singulares (perforado, agujereado, escareo, golpeado ligero) ciclos 
-                    para trabajar a máquina características prismáticas.
+                    para trabajar a máquina características prismáticas. <br> <br>
                     Los algoritmos de mecanizado usan la más actual herramienta de trayectoria (toolpath) 
                     métodos de la protección del formón."
                 </div>
@@ -75,9 +75,9 @@
                     <h2>Fresado 3 ejes</h2>
                     El fresado en 3 ejes incluye las funciones del fresado en 2,5 ejes más rutinas para superficies 
                     de mecanizado complejas y con contornos que suelen aparecer al crear moldes y en aplicaciones 
-                    aeroespaciales. A continuación se detallan algunos de los rasgos.
-                    • Se pueden modificar para que queden contenidos en un área o para evitar un área. 
-                    • Pueden generar trayectorias de herramienta de alta velocidad sin aristas vivas.
+                    aeroespaciales. A continuación se detallan algunos de los rasgos. <br> <br>
+                    • Se pueden modificar para que queden contenidos en un área o para evitar un área. <br>
+                    • Pueden generar trayectorias de herramienta de alta velocidad sin aristas vivas. <br>
                     • Pueden tener sobreespesores de mecanizado XY y Z independientes."
                 </div>
             </div>
@@ -108,9 +108,9 @@
                 <div>
                     <h2>Mill / Turn (Fresa / Torno)</h2>
                     El mecanizado multifuncional de fresa-torno de CAMWorks® incluye funciones de fresado y torneado 
-                    para centros de mecanizado multitarea.
-                    • Admite el mecanizado en los ejes C, Y y B en ángulos compuestos. • Admite el mecanizado 
-                    simultáneo en 5 ejes."
+                    para centros de mecanizado multitarea. <br> <br>
+                    • Admite el mecanizado en los ejes C, Y y B en ángulos compuestos. <br>
+                    • Admite el mecanizado simultáneo en 5 ejes."
                 </div>
             </div>
         </article>
@@ -121,7 +121,7 @@
                     CAMWorks® VoluMillTM es un motor de trayectorias de herramientas de fresado opcional, recientemente 
                     incorporado a CAMWorks 2011, para operaciones de desbaste de 2,5 y 3 ejes. Es perfecto para 
                     piezas prismáticas y figuras complejas en 3D, ya que sus algoritmos brindan trayectorias de 
-                    herramienta más inteligentes para mecanizar cavidades, hendiduras y figuras arbitrarias.
+                    herramienta más inteligentes para mecanizar cavidades, hendiduras y figuras arbitrarias. <br> <br>
                     Volumill tiene la capacidad de procesar tanto materiales blandos como duros para mellado, tales 
                     como el titanio, aleaciones de níquel o acero inoxidable. Se ha logrado una mejor eficiencia y 
                     utilización de las máquinas, herramientas, mano de obra y materiales."
@@ -135,7 +135,7 @@
                     El software de mecanizado de electroerosión por hilo de CAMWorks se ha diseñado y desarrollado de 
                     forma específica para programar máquinas CNC de electroerosión por hilo de 2 a 4 ejes, a diferencia 
                     de la mayoría de sistemas CAM, que emplean comandos de fresado modificados en sus módulos de 
-                    programación de máquinas de electroerosión.
+                    programación de máquinas de electroerosión. <br> <br>
                     El resultado es CAMWorks, que se integra completamente en SOLIDWORKS y ofrece un método más intuitivo, 
                     automático y eficaz de generación de trayectorias de herramienta de mecanizado de electroerosión y de 
                     código de máquinas."
