@@ -49,8 +49,8 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>PDM Usuario</h2>
-                        Duración: 20 Horas <br> 
-                        Modalidades: Virtual o Presencial <br> 
+                        Duración: 10 Horas <br>
+                        Modalidades: Virtual o Presencial <br>
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
                     </div>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Dibujo Avanzado</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -97,7 +97,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Piezas Soldadas</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 10 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -109,7 +109,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Diseño de moldes</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -121,7 +121,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Plastics</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -145,7 +145,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Routing Electrico</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -157,7 +157,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Electrical 3D</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 10 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -184,7 +184,8 @@
                         Duración: 20 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
-                        Lunes a Viernes: 9 AM a 7 PM
+                        Lunes a Viernes: 9 AM a 7 PM <br>
+                        Sabatino: 9 AM a 2 PM (Presencial)"
                     </div>
                 </div>
                 <div class="w3-half">
@@ -205,7 +206,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Flow Simulation</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -217,7 +218,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Simulación Profesional</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -229,7 +230,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Motion Analysis</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -241,7 +242,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Simulación No Lineal</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -253,7 +254,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>PDM Standard</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
@@ -265,7 +266,7 @@
                     </div>
                     <div class="w3-col s9 mitadder">
                         <h2>Simulación Dinámica</h2>
-                        Duración: 20 Horas <br> 
+                        Duración: 15 Horas <br> 
                         Modalidades: Virtual o Presencial <br> 
                         Guadalajara | México <br>
                         Lunes a Viernes: 9 AM a 7 PM
