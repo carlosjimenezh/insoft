@@ -15,7 +15,7 @@
         $dir='cursos.php';
         include('header.php'); 
     ?>
-    <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
+    <div class="banner-principal" style="height: 600px; background-image:url(assets/cursos.jpg)">
         <div class="contenido" style="margin-top: 0;height:100%; position:relative">
             <div class="w3-display-middle w3-center">
                 <span>CURSOS</span> <br>
