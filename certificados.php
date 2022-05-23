@@ -54,19 +54,19 @@
             </div>
             <div class="w3-row">
             <div class="w3-half mitadizq">
-                    <h2>Certificación CSWA</h2>
-                    Es una prueba de sus conocimientos en SOLIDWORKS, habilidades de diseño y resolución de 
-                    problemas que las empresas necesitan hoy en día. <br> <br>
+                    <h2>Certificación CSWP</h2>
+                    Tendrás la capacidad para diseñar y analizar piezas paramétricas y ensamblajes móviles utilizando 
+                    una variedad de múltiples características de SOLIDWORKS.<br> <br>
                     CSWA INCLUYE BÁSICO, INTERMEDIO Y AVANZADO TUTORIAL 3 HORAS Y DERECHO A EXAMEN (1 CÓDIGO INCLUIDO) <br> <br>
                     <b>Duración del examen:</b> 3 horas. <br>
                     <b>Calificación mínima para aprobar:</b> 70% <br>
                     <b>Política de reevaluación:</b> Hay un período mínimo de espera de 14 días entre cada intento 
-                    del examen CSWA. <br>
+                    del examen CSWP. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br> <br>
                     <b>Objetivo de aprendizaje</b> <br>
-                    La Certificación CSWA, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y 
-                    planos de ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de 
-                    diseño 3D con SOLIDWORKS
+                    La Certificación CSWP, avala tus conocimientos prácticos en diseño de piezas 3d,ensambles y planos de 
+                    ingeniería. Podrás demostrar tu capacidad de dar soluciones a problemas generales de diseño 3D 
+                    con SOLIDWORKS
                 </div>
                 <div class="w3-half mitadder">
                     <img src="assets/cswp.jpg" alt="" width="100%">
