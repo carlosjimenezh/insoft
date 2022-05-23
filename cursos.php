@@ -52,7 +52,7 @@
                 <div class="w3-col m9">
                     <h2>SOLIDWORKS Intermedio</h2>
                     <b>Duración:</b> 20 horas <br>
-                    <b>Conocimientos:</b> Manejo básico de computadora <br>
+                    <b>Conocimientos:</b> Conocimientos: SOLIDWORKS básico y manejo básico de computadora. <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
                     <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
@@ -65,7 +65,7 @@
                 <div class="w3-col m9">
                     <h2>SOLIDWORKS Avanzado</h2>
                     <b>Duración:</b> 20 horas <br>
-                    <b>Conocimientos:</b> Manejo básico de computadora <br>
+                    <b>Conocimientos:</b> Conocimientos: SOLIDWORKS básico e intermedio y manejo básico de computadora. <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
                     <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
@@ -78,7 +78,7 @@
                 <div class="w3-col m9">
                     <h2>SOLIDWORKS Especialidades</h2>
                     <b>Duración:</b> 20 horas <br>
-                    <b>Conocimientos:</b> Manejo básico de computadora <br>
+                    <b>Conocimientos:</b> Conocimientos: SOLIDWORKS básico e intermedio y manejo básico de computadora. <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
                     <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
@@ -103,8 +103,8 @@
                 </div>
                 <div class="w3-col m9">
                     <h2>CAMWorks Avanzado</h2>
-                    <b>Duración:</b> 20 horas <br>
-                    <b>Conocimientos:</b> Manejo básico de computadora <br>
+                    <b>Duración:</b> 15 horas <br>
+                    <b>Conocimientos:</b> Curso CAMWorks y Manejo básico de computadora <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
                     <b>Incluye:</b> Manual por persona, curso impartido por Instructor Certificado y diploma."
@@ -116,7 +116,7 @@
                 </div>
                 <div class="w3-col m9">
                     <h2>CNC Fresa</h2>
-                    <b>Duración:</b> 20 horas <br>
+                    <b>Duración:</b> 10 horas <br>
                     <b>Conocimientos:</b> Manejo básico de computadora <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
@@ -129,7 +129,7 @@
                 </div>
                 <div class="w3-col m9">
                     <h2>CNC Torno</h2>
-                    <b>Duración:</b> 20 horas <br>
+                    <b>Duración:</b> 10 horas <br>
                     <b>Conocimientos:</b> Manejo básico de computadora <br>
                     <b>Modalidad:</b> Virtual o presencial. <br>
                     <b>Horario:</b> Lunes a viernes de 9 a 7 pm. Sábados de 9 a 2 pm. <br>
