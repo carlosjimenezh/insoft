@@ -1,4 +1,4 @@
-<header>
+<header class="w3-top">
     <div class="contenido contactos txtazul">
         <div class="w3-right">
             <a href="">
