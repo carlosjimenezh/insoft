@@ -126,7 +126,7 @@
             </div>
             <div class="w3-row linea-fondo">
                 <div class="w3-third mitadizq linea-fondo-small">
-                    <a href="">
+                    <a href="cursos.php">
                         <div class="circular" style="background-image: url(assets/cursos.jpg);"></div>
                     </a>
                     <h2>CURSOS</h2>
@@ -134,7 +134,7 @@
                     de mejor manera en el ámbito laboral.
                 </div>
                 <div class="w3-third mitadcentro linea-fondo-small">
-                    <a href="">
+                    <a href="especialidades.php">
                         <div class="circular" style="background-image: url(assets/diplomados.jpg);"></div>
                     </a>
                     <h2>DIPLOMADOS</h2>
@@ -142,7 +142,7 @@
                     tiene genera interés para la industria.
                 </div>
                 <div class="w3-third mitadder linea-fondo-small">
-                    <a href="">
+                    <a href="certificados.php">
                         <div class="circular" style="background-image: url(assets/certificaciones.jpg)"></div>
                     </a>
                     <h2>CERTIFICIONES</h2>
