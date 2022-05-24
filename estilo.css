@@ -207,6 +207,8 @@ header nav img {
 	font-style: normal;
 }
 
+.carrusel {margin-top: 40px;}
+
 #collapsing-menu .w3-bar-item {
 	display: flex;
 	justify-content: space-between;
