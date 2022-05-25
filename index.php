@@ -50,7 +50,7 @@
         </div>
         <div class="w3-row contenido w3-center linea-fondo">
             <div class="w3-third mitadizq linea-fondo-small">
-                <a href="">
+                <a href="solidworks.php">
                     <div class="circular" style="background-image: url('assets/solidworks.jpg');"></div>
                 </a>
                 <h2>SOLIDWORKS</h2>
@@ -59,7 +59,7 @@
                 en 3D, te permite gracias a sus herramientas innovar y desarollar tus propios productos.
             </div>
             <div class="w3-third mitadcentro linea-fondo-small"> 
-                <a href="">
+                <a href="camworks.php">
                     <div class="circular" style="background-image: url('assets/camworks.jpg');"></div>
                 </a>
                 <h2>CAMWorks</h2>
@@ -68,7 +68,7 @@
                 maquinados CNC, integrado totalmente a SOLIDWORKS será mas fácil las actualizaciones de diseño.
             </div>
             <div class="w3-third mitadder linea-fondo-small">
-                <a href="">
+                <a href="capacitacion.php">
                     <div class="circular" style="background-image: url('assets/capacitacion.jpg');"></div>
                 </a>
                 <h2>Capacitación</h2>
