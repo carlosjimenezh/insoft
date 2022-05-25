@@ -207,6 +207,10 @@ header nav img {
 	font-style: normal;
 }
 
+#solidworks .banner-principal img {
+	width: 700px;
+}
+
 .carrusel {margin-top: 40px;}
 
 #collapsing-menu .w3-bar-item {
@@ -675,6 +679,9 @@ footer .redes img {
 	}
 	.aviso {
 		font-size: 18px;
+	}
+	#solidworks .banner-principal img {
+		width: 350px;
 	}
 }
 .imgmax{

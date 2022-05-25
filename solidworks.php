@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
 </head>
-<body>
+<body id="solidworks">
     <?php 
         $sec=2; 
         $seccion='SOLIDWORKS';
