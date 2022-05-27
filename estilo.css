@@ -688,6 +688,9 @@ footer .redes img {
 	#solidworks .banner-principal img {
 		width: 350px;
 	}
+	.swiper {
+		height: 600px;
+	}
 }
 .imgmax{
 	max-width:100%; margin:auto
