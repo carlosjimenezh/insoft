@@ -46,7 +46,7 @@
             Contamos con soluciones eficaces e intuitivas para innovar y abarcar todos 
             los aspectos del proceso de desarrollo de productos, sin importar el tamaño de su empresa.
             <br>
-            <a href="" class="btn">Más información</a>
+            <a href="solidworks.php" class="btn">Más información</a>
         </div>
         <div class="w3-row contenido w3-center linea-fondo">
             <div class="w3-third mitadizq linea-fondo-small">
