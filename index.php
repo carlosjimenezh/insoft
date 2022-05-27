@@ -89,7 +89,7 @@
             Contamos con cursos desde nivel básico y más de 15 especialidades que te 
             ayudarán a realizar tu trabajo de manera exitosa, cumpliendo las demandas del mercado laboral actual.
             <br>
-            <a href="" class="btn">Contactar</a>
+            <a href="capacitacion.php" class="btn">Contactar</a>
         </div>
         <div class="contenido w3-center">
             <div class="w3-row linea-fondo">
