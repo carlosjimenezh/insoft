@@ -278,7 +278,7 @@ footer .redes img {
 .swiper-pagination {position: relative; margin-top: -35px; bottom: unset!important;}
 .swiper-pagination-bullet{ background: #fff; border:solid thin #fff; opacity: 1; width:14px; height:14px; border-radius:0 ;
 -webkit-border-radius:0 ; -moz-border-radius:0 ; -ms-border-radius:0 ; -o-border-radius:0 ; }
-.swiper-pagination-bullet-active{background: rgb(180, 180, 180, 0.7); border:thin} 
+.swiper-pagination-bullet-active{background: rgb(180, 180, 180); border:thin} 
 .swiper-button-next:after, .swiper-button-prev:after {
     font-size: 30px 
 }
