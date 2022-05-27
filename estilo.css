@@ -537,6 +537,11 @@ footer .redes img {
 	}
 }
 
+#matriz {
+	margin-top: 200px;
+	overflow-x: auto;
+}
+
 #matriz table {
 	border-collapse: collapse;
 	margin-bottom: 100px;
