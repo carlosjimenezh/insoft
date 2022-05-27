@@ -273,7 +273,7 @@ footer .redes img {
 	-webkit-filter: invert(1);
 }
   
-.swiper {width: 100%; height: 650px}
+.swiper {width: 100%; height: 750px}
 .swiper-slide {background-position: center; background-size: cover}
 .swiper-pagination {position: relative; margin-top: -35px; bottom: unset!important;}
 .swiper-pagination-bullet{ background: #fff; border:solid thin #fff; opacity: 1; width:14px; height:14px; border-radius:0 ;
