@@ -338,6 +338,11 @@ footer .redes img {
 	height: 400px; 
 }
 
+#cuadro-rojo .logo {
+	margin-bottom: 30px;
+	width: 550px
+}
+
 #centro-capacitacion {
 	margin-bottom: 90px;
 }
@@ -691,6 +696,9 @@ footer .redes img {
 	}
 	.swiper {
 		height: 600px;
+	}
+	#cuadro-rojo .logo {
+		width: 300px;
 	}
 }
 .imgmax{
