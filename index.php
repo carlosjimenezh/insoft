@@ -154,7 +154,7 @@
     <section id="cuadro-rojo">
         <div class="contenido txtblanco" style="position: relative; height:100%">
             <div class="w3-display-bottomleft" style="left:10px">
-                Conviertete <br>
+                Conviértete <br>
                 en un experto <br>
                 <img src="assets/logo-solidworks.png" alt="">
             </div>
