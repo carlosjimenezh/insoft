@@ -81,9 +81,6 @@
 
 
     <section id="paralax">
-        <div class="w3-display-middle txtblanco">
-            PARALAX
-        </div>
     </section>
 
     <section id="scapacitacion">
