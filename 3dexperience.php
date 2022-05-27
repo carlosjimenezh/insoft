@@ -13,7 +13,7 @@
         include('header.php'); 
     ?>
 
-    <section id='matriz' class="contenido" style="margin-top: 150px; overflow-x:auto">
+    <section id='matriz' class="contenido">
         <table> 
             <thead>
                 <tr>
