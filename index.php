@@ -156,7 +156,7 @@
             <div class="w3-display-bottomleft" style="left:10px">
                 Conviértete <br>
                 en un experto <br>
-                <img src="assets/logo-solidworks.png" alt="">
+                <img src="assets/logo-solidworks.svg" alt="">
             </div>
             <div class="w3-display-bottommiddle	">
                 <img src="assets/man.png" alt="">

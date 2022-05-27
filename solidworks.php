@@ -16,7 +16,7 @@
     <?php include("header.php"); ?>
     <div class="banner-principal" style="height: 600px; background-image:url(assets/solidworks-insoft.jpeg)">
         <div class="w3-display-middle w3-center" style="font-size: 35px;">
-            <img src="assets/logo-solidworks.png" alt="" width="700px"> <br>
+            <img src="assets/logo-solidworks.svg" alt="" width="700px"> <br>
             <span>SOLUCIONES CAD 3D</span>
         </div>
     </div>
