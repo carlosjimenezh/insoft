@@ -696,6 +696,10 @@ footer .redes img {
 	#solidworks .banner-principal img {
 		width: 350px;
 	}
+	#solidworks #paquetes .w3-third:nth-child(1),
+	#solidworks #paquetes .w3-third:nth-child(2) {
+		margin-bottom: 50px;
+	}
 	.swiper {
 		height: 600px;
 	}
