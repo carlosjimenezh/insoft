@@ -338,6 +338,8 @@ footer .redes img {
 	height: 400px; 
 }
 
+.logo {width: 400px}
+
 #cuadro-rojo .logo {
 	margin-bottom: 30px;
 	width: 550px
@@ -696,6 +698,9 @@ footer .redes img {
 	}
 	.swiper {
 		height: 600px;
+	}
+	.logo {
+		width: 300px;
 	}
 	#cuadro-rojo .logo {
 		width: 300px;
