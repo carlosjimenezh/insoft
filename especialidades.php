@@ -20,7 +20,7 @@
             <div class="contenido" style="margin-top: 0;height:100%; position:relative">
                 <div class="w3-display-middle w3-center">
                     <span>ESPECIALIDADES</span> <br>
-                    <img src="assets/logo-solidworks.svg" alt="">
+                    <img src="assets/logo-solidworks.svg" class="logo" alt="">
                 </div>
             </div>
         </div>
