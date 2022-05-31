@@ -136,7 +136,7 @@ hr{ border:#333 solid 1px;}
     background-position-y: 155px;
 } 
 
-header.w3-top {z-index: 2;}
+header.w3-top {z-index: 3;}
 
 header, header .contactos {
 	background-color: white;
