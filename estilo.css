@@ -720,6 +720,8 @@ footer .redes img {
 	#cuadro-rojo .w3-display-right img {
 		width: 200px;
 	}
+	#especialidades main .mitadder {padding-left: 5px}
+	#especialidades main .mitadizq {padding-right: 5px}
 }
 .imgmax{
 	max-width:100%; margin:auto
