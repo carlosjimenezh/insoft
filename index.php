@@ -158,11 +158,11 @@
                 en un experto <br>
                 <img src="assets/logo-solidworks.svg" class="logo" alt="">
             </div>
-            <div class="w3-display-bottommiddle	">
-                <img src="assets/man.png" alt="">
+            <div class="w3-display-bottommiddle">
+                <img src="assets/laptop.png" alt="">
             </div>
             <div class="w3-display-right" style="right: 10px;">
-                <img src="assets/circle.svg" alt="" width="100px">
+                <img src="assets/certificaciones-solidworks.png" alt="" width="100px">
             </div>
         </div>
     </section>

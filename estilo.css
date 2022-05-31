@@ -345,6 +345,9 @@ footer .redes img {
 	width: 550px
 }
 
+#cuadro-rojo .w3-display-bottommiddle {left: 60%}
+#cuadro-rojo .w3-display-bottommiddle img {width: 400px}
+
 #centro-capacitacion {
 	margin-bottom: 90px;
 }
