@@ -347,8 +347,8 @@ footer .redes img {
 
 #cuadro-rojo .w3-display-bottomleft {line-height: 1; z-index: 2;}
 #cuadro-rojo .w3-display-bottommiddle {left: 55%}
-#cuadro-rojo .w3-display-bottommiddle img {width: 400px}
-#cuadro-rojo .w3-display-right img {width: 300px}
+#cuadro-rojo .w3-display-bottommiddle img {width: 350px}
+#cuadro-rojo .w3-display-right img {width: 250px}
 
 #centro-capacitacion {
 	margin-bottom: 90px;
@@ -713,6 +713,10 @@ footer .redes img {
 	}
 	#cuadro-rojo .logo {
 		width: 300px;
+	}
+	#cuadro-rojo .w3-display-right {top: 55%}
+	#cuadro-rojo .w3-display-right img {
+		width: 200px;
 	}
 }
 .imgmax{
