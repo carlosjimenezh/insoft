@@ -162,7 +162,7 @@
                 <img src="assets/laptop.png" alt="">
             </div>
             <div class="w3-display-right" style="right: 10px;">
-                <img src="assets/certificaciones-solidworks.png" alt="" width="100px">
+                <img src="assets/certificaciones-solidworks.png" alt="">
             </div>
         </div>
     </section>
