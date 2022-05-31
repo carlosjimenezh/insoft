@@ -345,6 +345,7 @@ footer .redes img {
 	width: 550px
 }
 
+#cuadro-rojo .w3-display-bottomleft {line-height: 1; z-index: 2;}
 #cuadro-rojo .w3-display-bottommiddle {left: 55%}
 #cuadro-rojo .w3-display-bottommiddle img {width: 400px}
 #cuadro-rojo .w3-display-right img {width: 300px}
