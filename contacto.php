@@ -7,16 +7,16 @@
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
 </head>
-<body>
+<body id="contacto">
     <?php
         $sec = 6; 
         include('header.php'); 
     ?>
 
-
+    <section class="contenido" style="margin-top: 200px"> 
+        <h3 class="w3-center">Contactanos para saber más de SOLIDWORKS</h3>
+    </section>
     
-
-
     <?php include('footer.html'); ?>
 </body>
 </html>
