@@ -153,7 +153,7 @@
 
     <section id="cuadro-rojo">
         <div class="contenido txtblanco" style="position: relative; height:100%">
-            <div class="w3-display-bottomleft" style="left:10px">
+            <div class="w3-display-bottomleft">
                 Conviértete <br>
                 en un experto <br>
                 <img src="assets/logo-solidworks.svg" class="logo" alt="">
@@ -161,7 +161,7 @@
             <div class="w3-display-bottommiddle">
                 <img src="assets/laptop.png" alt="">
             </div>
-            <div class="w3-display-right" style="right: 10px;">
+            <div class="w3-display-right">
                 <img src="assets/certificaciones-solidworks.png" alt="">
             </div>
         </div>
