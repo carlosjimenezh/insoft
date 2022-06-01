@@ -6,6 +6,7 @@
     <title>Contacto</title>
     <link rel="stylesheet" href="w3pro.css">
     <link rel="stylesheet" href="estilo.css">
+    <script src="js/verificar-formulario.js"></script>
 </head>
 <body id="contacto">
     <?php
