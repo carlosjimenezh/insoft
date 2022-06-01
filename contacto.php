@@ -16,6 +16,8 @@
     <section class="contenido" style="margin-top: 200px"> 
         <h3 class="w3-center">Contactanos para saber más de SOLIDWORKS</h3>
     </section>
+
+    <?php include('formulario.php'); ?>
     
     <?php include('footer.html'); ?>
 </body>
