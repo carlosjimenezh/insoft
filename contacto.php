@@ -30,7 +30,7 @@
                 para tu aprendizaje.
             </div>
             <div class="w3-half">
-                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14934.963856200986!2d-103.3820267!3d20.6394127!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428b24c85af2b7f%3A0xdb01669508da6b57!2sGrupo%20Insoft!5e0!3m2!1sen!2smx!4v1654181754322!5m2!1sen!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>
