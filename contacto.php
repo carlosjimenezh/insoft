@@ -15,7 +15,7 @@
     ?>
 
     <section class="contenido" style="margin-top: 200px"> 
-        <h3 class="w3-center">Contactanos para saber más de SOLIDWORKS</h3>
+        <h3 class="w3-center" style="margin-bottom: 50px">Contactanos para saber más de SOLIDWORKS</h3>
         <div class="w3-row">
             <div class="w3-half">
                 <strong>Nos encontramos en México, Guadalajara y Monterrey</strong> <br> <br>
