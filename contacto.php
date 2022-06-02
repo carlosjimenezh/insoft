@@ -19,7 +19,7 @@
     <section class="contenido" style="margin-top: 200px"> 
         <h3 class="w3-center" style="margin-bottom: 50px">Contactanos para saber más de SOLIDWORKS</h3>
         <div class="w3-row">
-            <div class="w3-half">
+            <div class="w3-half mitadizq">
                 <strong>Nos encontramos en México, Guadalajara y Monterrey</strong> <br> <br>
                 Un representante en ventas se pondrá en contacto contigo para explicarte 
                 los beneficios de obtener <b>SOLIDWORKS 2022</b> además de poder visitar nuestras 
@@ -31,7 +31,7 @@
                 Mantenemos buenas instalaciones, material didáctico, software y clases personalizadas 
                 para tu aprendizaje.
             </div>
-            <div class="w3-half">
+            <div class="w3-half mitadder">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14934.963856200986!2d-103.3820267!3d20.6394127!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428b24c85af2b7f%3A0xdb01669508da6b57!2sGrupo%20Insoft!5e0!3m2!1sen!2smx!4v1654181754322!5m2!1sen!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
