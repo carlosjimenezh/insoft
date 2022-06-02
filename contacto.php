@@ -11,6 +11,8 @@
 <body id="contacto">
     <?php
         $sec = 6; 
+        $seccion = 'CONTACTO';
+        $dir = 'contacto.php';
         include('header.php'); 
     ?>
 
