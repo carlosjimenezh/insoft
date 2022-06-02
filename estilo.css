@@ -607,6 +607,8 @@ footer .redes img {
 #matriz table .disable {color: red}
 
 
+#contacto .contenido strong {font-size: 20px}
+
 
 
 @media only screen and (min-width:601px){
@@ -725,6 +727,7 @@ footer .redes img {
 	#cuadro-rojo .w3-display-bottommiddle img {width: 230px}
 	#especialidades main .mitadder {padding-left: 5px}
 	#especialidades main .mitadizq {padding-right: 5px} 
+	#contacto .contenido strong {font-size: 18px}
 }
 .imgmax{
 	max-width:100%; margin:auto
