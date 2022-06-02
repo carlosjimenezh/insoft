@@ -16,11 +16,11 @@
         include('header.php'); 
     ?>
 
-    <section class="contenido" style="margin-top: 200px"> 
+    <section class="contenido" style="margin: 200px auto 100px"> 
         <h3 class="w3-center" style="margin-bottom: 50px">Contactanos para saber más de SOLIDWORKS</h3>
         <div class="w3-row">
             <div class="w3-col l5 m6 mitadizq">
-                <strong>Nos encontramos en México, Guadalajara y Monterrey</strong> <br> <br>
+                <div style="text-align: start"><strong>Nos encontramos en México, Guadalajara y Monterrey</strong>    </div> <br> <br>
                 Un representante en ventas se pondrá en contacto contigo para explicarte 
                 los beneficios de obtener <b>SOLIDWORKS 2022</b> además de poder visitar nuestras 
                 instalaciones y ver por qué somos la mejor opción para ti. <br> <br>
