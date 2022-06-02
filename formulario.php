@@ -92,7 +92,7 @@
         
         <div class="contenido w3-center">
             Su información será tratada con confidencialidad lea nuestro <br>
-            <a href="" onclick="privacidad()" style="text-decoration:underline">
+            <a href="#" onclick="privacidad()" style="text-decoration:underline">
                 Aviso de privacidad
             </a>
         </div>
