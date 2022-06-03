@@ -102,7 +102,17 @@
                         <input type="emal" name="email" placeholder="E-mail">
                         <input type="text" name="ciudad" placeholder="Ciudad/País">
                         <input type="text" name="empresa" placeholder="Empresa o particular">
-                        <input type="text" name="producto" placeholder="Diseño de producto">
+                        <input type="select" name="producto" placeholder="Diseño de producto">
+                        <select name="producto" id="producto">
+                            <option value="producto">Diseño de Productos</option>
+                            <option value="metalmecanica">Industria Metalmecánica</option>
+                            <option value="construccion">Construcción</option>
+                            <option value="moldes">Diseño de Moldes y Troqueles</option>
+                            <option value="electronica">Manufactura Electrónica</option>
+                            <option value="agricola">Maquinaria Agrícola</option>
+                            <option value="maquinados">Maquinados</option>
+                            <option value="otro">Otro</option>
+                        </select>
                         <div class="checkboxs">
                             <input type="checkbox" name="capacitacion" id="chkcapacitacion">
                             &nbsp; &nbsp;
