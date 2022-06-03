@@ -88,7 +88,7 @@
                     </a>
                 </div>
             </div>
-            <div class="ocultar-menu">
+            <div class="w3-dropdown-hover ocultar-menu">
                 <a href="contacto.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==6){ echo "activo";}?>">CONTACTO</a>
             </div>
             <a href="javascript:void(0)" class="w3-hide-large w3-hide-medio" 
