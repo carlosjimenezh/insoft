@@ -448,11 +448,17 @@ footer .redes img {
 	margin-bottom: 20px;
 }
 
-#ventas .w3-half input, #ventas-capacitacion input {
+#ventas .w3-half input, #ventas-capacitacion input,
+#ventas-capacitacion select {
 	display: block;
 	margin-bottom: 10px;
 	padding: 7px 15px;
 	width: 100%
+}
+
+#ventas-capacitacion select {
+	height: 39px;
+	appearance: none;
 }
 
 #ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'] {
