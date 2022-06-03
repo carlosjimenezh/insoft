@@ -19,14 +19,6 @@
             </a>
             <div class="w3-dropdown-hover ocultar-menu">
                 <a href="nosotros.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==1){ echo "activo";}?>">NOSOTROS</a>
-                <div class="w3-dropdown-content">
-                    <a href="" class="w3-bar-item">
-                        Instalaciones
-                    </a>
-                    <a href="" class="w3-bar-item">
-                        Misión y visión
-                    </a>
-                </div>
             </div>
             <div class="w3-dropdown-hover ocultar-menu">
                 <a href="solidworks.php" class="w3-bar-item w3-hide-small <?php if(isset($sec) && $sec==2){ echo "activo";}?>">SOLIDWORKS</a>
@@ -109,11 +101,6 @@
         <div id="collapsing-menu" class="w3-bar-block w3-hide w3-hide-medio w3-hide-large contenido txtblanco">
             <div class="w3-bar-item <?php if(isset($sec) && $sec==1){ echo "activo";}?>">
                 <a href="nosotros.php">NOSOTROS</a>
-                <a class="flecha" id="flecha-nosotros" onclick="show('menu-nosotros')"></a>
-            </div>
-            <div class="hide" id=menu-nosotros>
-                <a href="">Instalaciones</a>
-                <a href="">Misión y visión</a>
             </div>
             <div class="w3-bar-item <?php if(isset($sec) && $sec==2){ echo "activo";}?>">
                 <a href="solidworks.php">SOLIDWORKS</a>
