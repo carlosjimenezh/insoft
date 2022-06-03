@@ -459,6 +459,11 @@ footer .redes img {
 #ventas-capacitacion select {
 	height: 39px;
 	appearance: none;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
 }
 
 #ventas-capacitacion input[type='checkbox'], #ventas-capacitacion input[type='label'] {
