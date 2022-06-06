@@ -525,7 +525,8 @@ footer .redes img {
 	padding: 20px 0;
 }
 
-#capacitacion .banner-principal span {
+#capacitacion .banner-principal span,
+#nosotros .banner-principal span {
 	font-size: 10vw;
 }
 
